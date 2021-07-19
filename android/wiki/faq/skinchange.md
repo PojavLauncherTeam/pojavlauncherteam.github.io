@@ -7,6 +7,7 @@ Hey! Are you tired of seeing that old-fashion Steve/Alex skin in Pojav? Well, we
 
 ## Changing skin without an account
 Create a texture/resource pack, and make sure that **the .zip file only contains the following: a assets folder and a pack.mcmeta file (ask the discord if what's pack.mcmeta)**
+(if you don't know what's a '.zip', you can just put the assets folder and the pack.mcmeta in a regular folder.)
 
 Now, grab your skin and place it in `assets/minecraft/textures/entity/`, then rename it to 'steve.png'
 
