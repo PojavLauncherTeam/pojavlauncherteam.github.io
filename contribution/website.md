@@ -13,7 +13,7 @@ You're allowed to pretty much change anything, as long as it follows all of thes
 
 - Do not make any promises unless you were given permission from the developers.
 - Do not spread misinformation and inaccurate content.
-- Although you can change everything else, do not touch .vuepress/config.js. If you need to change something in their, let Doregon know.
+- Although you can change everything else, do not touch .vuepress/config.js. If you need to change something in there, let Doregon know.
 - Never, never ever ever merge `gh-pages` and `main` into each other. gh-pages is the result, main is the rough draft.
 - Do not delete any dot files (.nvmrc, .gitattributes, etc)
 

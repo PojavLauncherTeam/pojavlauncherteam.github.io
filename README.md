@@ -2,7 +2,7 @@
 
 ### From the ashes of zhouwei's Boardwalk project comes PojavLauncher, a capable, fast, and open-source Minecraft: Java Edition launcher for Android and iOS.
 
-PojavLauncher is based off of **zhouwei's Boardwalk** project, which brought Minecraft 1.13 to Android. Improved upon and revived by the team, PojavLauncher brings Boardwalk to new heights with more versions, more devices, and even iOS support.
+PojavLauncher is based off of **zhouwei's Boardwalk** project, which brought Minecraft 1.13 to Android. Improved upon and revived by the team, PojavLauncher brings Boardwalk to new heights with more versions, more devices, and even iOS/iPadOS support.
 
 Right now, you're looking at the PojavLauncher website, with information regarding the launcher and wikis for Android and iOS. Take a look around, there's more in store!
 

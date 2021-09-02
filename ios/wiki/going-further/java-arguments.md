@@ -41,9 +41,9 @@ All values are estimates. The real values will be slightly lower. The latest iOS
 
 | iPhone model  | Memory Allocation | Latest iOS |
 | ------------- | ------------- | ------------- |
-| iPhone 5s | 256 megabytes | iOS 12.5.3 |
-| iPhone 6  | 256 megabytes | iOS 12.5.3 |
-| iPhone 6 Plus | 256 megabytes | iOS 12.5.3 |
+| iPhone 5s | 256 megabytes | iOS 12.5.4 |
+| iPhone 6  | 256 megabytes | iOS 12.5.4 |
+| iPhone 6 Plus | 256 megabytes | iOS 12.5.4 |
 | iPhone 6s  | 512 megabytes | current |
 | iPhone 6s Plus | 512 megabytes | current |
 | iPhone SE (2016)  | 512 megabytes | current |
@@ -68,18 +68,18 @@ All values are estimates. The real values will be slightly lower. The latest iOS
 
 **Note:** The iPad Pro 11" 1st gen and 12.9" 2nd gen can have either 4GB or 6GB of total memory. If your model has 1TB of storage, you will have 6GB. If not, you will have 4GB. The same concept applies to the iPad Pro 11” 3rd gen and 12.9” 5th gen: if your model has 1TB or higher, you have 16GB of total memory. If not, you have 8GB. 
 
-| iPad model  | Memory Allocation | Latest iPadOS | 
+| iPad model  | Memory Allocation | Latest iOS/iPadOS | 
 | ------------- | ------------- | -----------------|
 | iPad 5 | 512 megabytes | current | 
 | iPad 6 | 768 megabytes | current | 
 | iPad 7 | 768 megabytes | current | 
 | iPad 8 | 768 megabytes | current | 
-| iPad Air | 256 megabytes  | iOS 12.5.3 |
+| iPad Air | 256 megabytes  | iOS 12.5.4 |
 | iPad Air 2 | 256 megabytes | current |
 | iPad Air 3 | 768 megabytes | current | 
 | iPad Air 4 | 1024 megabytes | current | 
-| iPad mini 2 | 256 megabytes | iOS 12.5.3 |
-| iPad mini 3 | 256 megabytes | iOS 12.5.3 |
+| iPad mini 2 | 256 megabytes | iOS 12.5.4 |
+| iPad mini 3 | 256 megabytes | iOS 12.5.4 |
 | iPad mini 4 | 512 megabytes | current | 
 | iPad mini 5  | 768 megabytes | current | 
 | iPad Pro 9.7"  | 512 megabytes | current | 
@@ -97,5 +97,5 @@ All values are estimates. The real values will be slightly lower. The latest iOS
 
 | iPod model  | Memory Allocation | Latest iOS |
 | ------------- | ------------- | ------------- |
-| iPod touch 6 | 256 megabytes | iOS 12.5.3 |
+| iPod touch 6 | 256 megabytes | iOS 12.5.4 |
 | iPod touch 7 | 512 megabytes | current |

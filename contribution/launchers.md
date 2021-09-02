@@ -10,12 +10,12 @@ PojavLauncher is completely open source, so we're happy to accept your contribut
 
 The following should help decipher how PojavLauncher works.
 
-### iOS
+### iOS/iPadOS
 
 * Uses OpenJDK 16 from Procursus to get a real Java environment 
 * Uses MetalANGLE for OpenGL ES -> Metal translator.
 * Uses GL4ES for OpenGL -> OpenGL ES translator.
-* Uses our [LWJGL3 iOS port](https://github.com/PojavLauncherTeam/lwjgl3).
+* Uses our [LWJGL3 iOS/iPadOS port](https://github.com/PojavLauncherTeam/lwjgl3).
 * Uses the same launch method as PojavLauncher Android.
 
 ### Android

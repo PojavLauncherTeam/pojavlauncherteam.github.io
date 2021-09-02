@@ -12,7 +12,7 @@ iOS 13 brought native support for DualShock 4 and Xbox One controllers, which wa
 PojavLauncher is currently using Procursus' OpenJDK 16 package. While a beast in later versions of vanilla Minecraft, this presents compatibility issues with older and modded versions. With OpenJDK 16, PojavLauncher only supports 1.6 or later for vanilla, and 1.16 or later for Forge and Fabric. We've made porting OpenJDK 8 our top priority and are sooo close to getting it done and hope to get it in your hands soon.
 
 ### Optimizing for memory usage
-While PojavLauncher, by default, only allocates 1/4 of your system memory, iOS can still have issues and kill the process for violating its limits. Doregon is getting to work on optimizing PojavLauncher for use on iOS, where memory can be tight and it's a war between jetsam and the user. He's also planning on building in a script that automatically sets the memory limits for PojavLauncher--so that iOS doesn't crash over a few buildings more.
+While PojavLauncher, by default, only allocates 1/4 of your system memory, iOS can still have issues and kill the process for violating its limits. Doregon is getting to work on optimizing PojavLauncher for use on iOS/iPadOS, where memory can be tight and it's a war between jetsam and the user. He's also planning on building in a script that automatically sets the memory limits for PojavLauncher--so that iOS/iPadOS doesn't crash over a few buildings more.
 
 ### A refreshed UI
 We admit it: the UI is a bit unintuitive. We plan on beginning a step towards a new one, with a version selector, settings screen, and direct access to files so you don't have to leave the game for a log or to change Java arguments.

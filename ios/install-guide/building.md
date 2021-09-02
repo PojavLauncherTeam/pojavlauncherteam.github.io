@@ -7,10 +7,10 @@ We've recently overhauled our build system to use Makefiles rather than shell sc
 
 Since you can compile PojavLauncher on more than one operating system, you'll need to get the required dependencies according to your setup.
 
-**macOS**  
-- Xcode 11.7 or higher  
-    - This version runs on macOS Catalina 10.15.2 or later.  
-- Homebrew or Procursus dependencies  
+**macOS**
+- Xcode 11.7 or higher
+    - This version runs on macOS Catalina 10.15.2 or later.
+- Homebrew or Procursus dependencies
     - `cmake`, for compiling the Objective-C part of the app
     - `openjdk`, for compiling the Java part of the app
         - JDK 8 is recommended as building with a higher version will force you to use Java 16 when playing the game.
@@ -19,8 +19,8 @@ Since you can compile PojavLauncher on more than one operating system, you'll ne
         - With Procursus, this is automatically installed for you.
     - `fakeroot`, for packaging
         - `fakeroot` is not available from Homebrew on Apple Silicon.
-        
-**iOS**  
+
+**iOS/iPadOS**
 - A jailbreak with Procursus
     - `cmake`, for compiling the Objective-C part of the app
     - `openjdk`, for compiling the Java part of the app
@@ -48,7 +48,7 @@ This option compiles the Java code that is used to interface with Minecraft itse
 ### make extras
 This options compiles the assets and storyboards that are used as the foundation of the app (located in `Natives/Assets.xcassets` and `Natives/en.lproj`).
 
-**Note:** If compiling on iOS, this option is disabled as the required tools are not available. Pre-compiled versions are used instead when packaging.
+**Note:** If compiling on iOS/iPadOS, this option is disabled as the required tools are not available. Pre-compiled versions are used instead when packaging.
 
 ### make package
 ***Requires `native`, `java`, and `extra`.***

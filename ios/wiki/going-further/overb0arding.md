@@ -1,13 +1,13 @@
 # Taking back your memory
 
-iOS can get in the way of some truly amazing experiences in PojavLauncher, and to explain and solve why, it requires a bit of backstory.
+iOS/iPadOS can get in the way of some truly amazing experiences in PojavLauncher, and to explain and solve why, it requires a bit of backstory.
 
 ## The backstory...
-iOS and macOS use a common memory management framework called Jetsam. This framework lays down some harsh laws upon the computer land, setting a memory limit for all processes to obey:
+Darwin uses a memory management framework called Jetsam. This framework lays down some harsh laws upon the computer land, setting a memory limit for all processes to obey:
 
 - If a process is using less memory than the limit, Jetsam leaves it alone and the process continues as normal.
 
-- If a process is using more memory than the limit, Jetsam quickly kills the app and frees all of the memory that it used.
+- If a process is using more memory than the limit, Jetsam quickly kills the process and frees all of the memory that it used.
 
 This is helpful for keeping the system responsive (customer service is a goal of Apple’s), but can pose a problem when it comes to processes requiring heavier loads.
 
@@ -17,7 +17,7 @@ Since this app requires a heavier resource load (as you’re using JDK and need 
 - The process was terminated for exceeding jetsam memory limits (a Cr4shed log)
 - The app unexpectedly quitting but the logs don’t show any errors relating to OpenGL or don’t show errors at all
 
-This issue only really affects devices with less than 4GB of memory, and may not happen on those with 2GB.
+This issue only really affects devices with less than 4GB of memory, and may not happen on those with at least 2GB.
 
 ## What to do if it all goes south
 It’s actually really simple to fix this issue, using a simple tool Doregon's found and adopted on GitHub. **We have seen Reddit posts about changing the jetsamproperties plist file,** but this doesn’t work well on iOS 14 and can lead to damage if you implement it incorrectly.
@@ -26,12 +26,12 @@ It’s actually really simple to fix this issue, using a simple tool Doregon's f
 
 2. Open PojavLauncher, but **don’t start the game.** We just need PJ open for now.
 
-3. Open your favorite terminal or use SSH and type the following command **as root or with sudo:**
+3. Open your favorite terminal or use SSH and type the following command:
 
 ```
 jetsamctl -l 1024 PojavLauncher
 
-# This command tells Jetsam that it's okay to allow PojavLauncher to use as much memory as it wants--although it won't, as the Launcher will only use 1/4.
+# This command tells Jetsam that it's okay to allow PojavLauncher to use 1024 megabytes of memory--although the Launcher will only use 1/4 of the total device memory.
 ```
 
 4. Profit! Switch back to PojavLauncher and start gaming!
