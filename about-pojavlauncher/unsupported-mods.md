@@ -15,7 +15,7 @@
  - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
  - [Sex mod] **(thanks *@Adiixyz*)**
  - [BatMod](https://batmod.com/)
- - [LabbyMod](https://www.labymod.net/en)
+ - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
 
  - 
  - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
