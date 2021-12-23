@@ -14,7 +14,8 @@
  - [ReplayMod](https://www.replaymod.com/) **(*FFMPEG* wrongly placed)**
  - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
  - Sex mod **(thanks *@Adiixyz*)**
- - Bat mod https://batmod.com/
+ - [BatMod] [https://batmod.com/]
+ 
  - 
  - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
 
