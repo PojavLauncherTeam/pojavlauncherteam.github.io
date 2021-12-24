@@ -13,7 +13,7 @@
  - [MrCrayfish's Gun Mod **(1.16.5)**](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
  - [ReplayMod](https://www.replaymod.com/) **(*FFMPEG* wrongly placed)**
  - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
- - [Sex mod] **(thanks *@Adiixyz*)**
+ - Sex mod **(thanks *@Adiixyz*)**
  - [BatMod](https://batmod.com/)
  - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
 
