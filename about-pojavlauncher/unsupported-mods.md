@@ -17,9 +17,9 @@
  - [BatMod](https://batmod.com/)
  - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
  - [Essential Mod](https://essential.gg/) **(with forge and without forge)**
- - [Ares Client] (https://www.aresclient.com/download) **(very old version works)**
- - [Dynamicfps Mod] (https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
- - [Illenium client] (https://illenium.cc/) 
+ - [Ares Client](https://www.aresclient.com/download) **(very old version works)**
+ - [Dynamicfps Mod](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+ - [Illenium client](https://illenium.cc/) 
  - 
  - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
 
