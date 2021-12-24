@@ -16,8 +16,9 @@
  - Sex mod **(thanks *@Adiixyz*)**
  - [BatMod](https://batmod.com/)
  - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
-
- - 
+ - [Essential Mod](https://essential.gg/) **(with forge and without forge)**
+ 
+  
  - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
 
  ---
