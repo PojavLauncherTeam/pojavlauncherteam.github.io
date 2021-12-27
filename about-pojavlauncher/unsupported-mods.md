@@ -20,7 +20,8 @@
  - [Ares Client](https://www.aresclient.com/download) **(very old version works)**
  - [Dynamicfps Mod](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
  - [Illenium client](https://illenium.cc/) 
- - 
+ - [Magnesium](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged)
+
  - More here: https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948
 
  ---
