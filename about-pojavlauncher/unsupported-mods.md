@@ -15,7 +15,7 @@
  - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
  - Sex mod **(thanks *@Adiixyz*)**
  - [BatMod](https://batmod.com/)
- - [LabbyMod](https://www.labymod.net/en) **(version=1.8.9 Random exit on 1.12.2 and some disappearance of text on minecraft 1.16.5)**
+ - [LabyMod](https://www.labymod.net/en) **(version=1.8.9 Random exit on 1.12.2 and some disappearance of text on minecraft 1.16.5)**
  - [Essential Mod](https://essential.gg/) **(with forge and without forge)**
  - [Ares Client](https://www.aresclient.com/download) **(very old version works)**
  - [Dynamicfps Mod](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
@@ -26,4 +26,4 @@
 
  ---
 
- * Last Updated: **12-27-2021** *
+ * Last Updated: **01-03-2022** *
