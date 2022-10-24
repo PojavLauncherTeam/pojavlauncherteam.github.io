@@ -1,0 +1,16 @@
+{
+	"extends": ["config:base", ":automergePatch", ":automergeBranch"],
+	"travis": {
+		"enabled": true
+	},
+	"assignees": ["@scriptex"],
+	"labels": ["dependencies"],
+	"rebaseWhen": "conflicted",
+	"vulnerabilityAlerts": {
+		"labels": ["security"],
+		"assignees": ["@scriptex"]
+	},
+	"major": {
+		"automerge": false
+	}
+}
