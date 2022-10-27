@@ -4,7 +4,7 @@ icon: home
 title: PojavLauncher Wiki
 heroImage: /pojavlauncher.png
 heroText: PojavLauncher Wiki
-tagline: A capable, fast and Open-source Minecraft: Java Edition launcher for Android and iOS.
+tagline: A capable, fast and Open-source Minecraft Java Edition launcher for Android and iOS.
 actions:
   - text: Get Started
     link: /ABOUTPOJAV.md
