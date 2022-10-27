@@ -66,7 +66,7 @@ module.exports = {
 
     themeConfig: {
         lastUpdated: true,
-        repo: 'https://github.com/PojavLauncherTeam/pojav-site/',
+        repo: 'https://github.com/PojavLauncherTeam/PojavLauncher/',
 		docsDir: '',
 		docsBranch: 'main',
 		editLinks: true,
@@ -74,18 +74,6 @@ module.exports = {
         logo: 'logo.png',
 
         sidebar: [
-		{
-            title: 'About PojavLauncher', // Category about the project
-            collapsable: false,
-            sidebarDepth: 1,
-            children: [
-				'LEGAL', // Legal + Security
-				'DEVICES', // Supported Devices
-				'MCVERS', // Supported Minecraft Versions
-				'MODS-UNSUPPORTED', // Unsupported Mods
-            ]
-
-        },
         {
             title: 'Wiki', // Category for information
             collapsable: false,
@@ -96,7 +84,8 @@ module.exports = {
 					collapsable: false, // Don't allow collapsing
 					sidebarDepth: 1,
 					children: [
-						'INSTALL', // Installing PojavLauncher
+					    'INSTALL', // Installing PojavLauncher
+                        'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
 						'INSTALL-MC', // Downloading Minecraft
 						'DEFAULT-CONTROLS', // Taking a look at the controls
@@ -121,7 +110,7 @@ module.exports = {
 							collapsable: true, // Don't allow collapsing
 							sidebarDepth: 1,
 							children: [
-								// Android-only FAQ goes here
+								'PARSINGERROR', // "Error while parsing the package" error fix
 							]
 						},
 						// FAQ that applies to both platforms goes here
@@ -142,7 +131,20 @@ module.exports = {
 					]
 		
 				},
-				'ROADMAP',
+				
+            ]
+
+        },
+        {
+            title: 'About PojavLauncher', // Category about the project
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+				'LEGAL', // Legal + Security
+				'DEVICES', // Supported Devices
+				'MCVERS', // Supported Minecraft Versions
+				'MODS-UNSUPPORTED', // Unsupported Mods
+				'ROADMAP', // The road ahead for PojavLauncher
             ]
 
         },
@@ -153,6 +155,7 @@ module.exports = {
             children: [
                 'CONT-POJAV', // Contributing to PojavLauncher itself
 				'CONT-WEBSITE', // Contributing to this website
+                'CONT-TRANSLATIONS', //Contributing to PojavLauncher translations, hopefully website translations later on
             ]
 
         },
