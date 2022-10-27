@@ -7,7 +7,7 @@ const { sidebar } = vuepressBar({
 
 module.exports = {
     title: 'PojavLauncher',
-	description: 'Minecraft: Java Edition, meet mobile devices.',
+	description: 'Minecraft: Java Edition, meets mobile devices.',
     head: [
 		['meta', {
 			name: 'theme-color',
@@ -87,17 +87,6 @@ module.exports = {
 
         },
         {
-            title: 'Recent Updates', // Category about recent developments
-            collapsable: false,
-            sidebarDepth: 1,
-            children: [
-				'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
-				'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
-				'LOCAL-MODE', // Offline mode is going places
-            ]
-
-        },
-        {
             title: 'Wiki', // Category for information
             collapsable: false,
             
@@ -164,6 +153,17 @@ module.exports = {
             children: [
                 'CONT-POJAV', // Contributing to PojavLauncher itself
 				'CONT-WEBSITE', // Contributing to this website
+            ]
+
+        },
+        {
+            title: 'Recent Updates', // Category about recent developments
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+				'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
+				'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
+				'LOCAL-MODE', // Offline mode is going places
             ]
 
         },
