@@ -7,8 +7,7 @@ const { sidebar } = vuepressBar({
 
 module.exports = {
     title: 'PojavLauncher Wiki',
-	description: 'Imagine an app; an app that can grant your dream. An app that made the impossible. An app that can just... run Java Edition on a fair speed, even on Android-powered Smartwatches! (No, really. We\'re serious here.) \
-	  From the developers of a modified Boardwalk; DuyKhanhTran and artDev, and also from developers wandering the huge wonders of the internet; crystall1nedev and SerpenSpirale, and Contributors around the world; we present you: PojavLauncher, an Application made to run the most famous LWJGL game that people play; Minecraft, to run natively on your Android and iDevices. Play Minecraft: Java Edition anytime, anywhere. ',
+	description: 'A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS',
     head: [
 		['meta', {
 			name: 'theme-color',
