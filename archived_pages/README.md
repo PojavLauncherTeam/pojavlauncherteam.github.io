@@ -7,3 +7,4 @@ Pages currently in the archive:
 [Supporting 1.17 and beyond (OGL32)](OGL32.md)  
 [Interacting with our fellow developers (PARTNERSHIPS)](PARTNERSHIPS.md)  
 [OpenJDK 8, coming to iOS (JDK8)](JDK8.md)
+[Installing PojavLauncher (ft. Linux)](DEVICES_LINUX_INCL.md)
