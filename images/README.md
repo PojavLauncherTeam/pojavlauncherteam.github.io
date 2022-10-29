@@ -1,5 +1,5 @@
 # PojavLauncher Wiki Images
-This directory is pretty self explanatory; it is contains images used for the Wiki
+This directory is pretty self explanatory; it contains images used for the Wiki
 
 ## Directory Structure
 ```
