@@ -14,7 +14,11 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 - [Dynamic surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) **(white textures)**
 - Sex mod **(thanks *@Adiixyz*)**
 - [BatMod](https://batmod.com/)
-- [LabbyMod](https://www.labymod.net/en) **(version=1.8.9)**
+- [LabyMod](https://www.labymod.net/en) **(version=1.8.9)**
 - [Essential Mod](https://essential.gg/) **(with forge and without forge)**
+- [Mysterymod](https://mysterymod.net/) *(Not fully tested)*
+- [Meteor client](https://meteorclient.com/) **(forge and fabric)**
+
+- 
  
 Pulled from [here](https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948)
