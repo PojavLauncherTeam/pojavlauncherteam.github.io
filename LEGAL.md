@@ -9,3 +9,4 @@ Authentication and downloads are performed directly with Mojang's servers--Pojav
 PojavLauncher does not cause harm to your device, and does not distribute harmful programs and executables.
 * This cannot be verified if you acquire PojavLauncher from a source that is not official.
 * For iOS users: jailbreaking can be considered a security risk, so be cautious when jailbroken.
+* Other Minecraft java on mobile apps use some properties of pojavlauncher.The are not owned or managed by [@Pojavlauncher Team](https://github.com/PojavLauncherTeam)
