@@ -50,18 +50,22 @@ Do not attempt to build using a newer or older NDK, it will lead to compilation 
 
 #### Building JRE (Java Runtime Environment)
 
-:::: code-group
-::: code-group-item Android
-```bash
+<CodeSwitcher :languages="{android:'Android',ios:'iOS'}">
+<template v-slot:android>
+
+```android
 export BUILD_IOS=0
 ```
-:::
-::: code-group-item iOS
-```bash
+
+</template>
+<template v-slot:ios>
+
+```ios
 export BUILD_IOS=1
 ```
-:::
-::::
+
+</template>
+</CodeSwitcher>
 
 ```export BUILD_FREETYPE_VERSION=[2.10.4]```
 
@@ -123,46 +127,58 @@ If no configuration is changed, run ```sh makejdkwithoutconfigure.sh``` instead
 
 * Just run this command and it'll be automatically updated from Crowdin.
 
-:::: code-group
-::: code-group-item Windows
-```bat
+<CodeSwitcher :languages="{win:'Windows',linuxmac:'Linux/MacOS'}">
+<template v-slot:win>
+
+```win
 scripts\languagelist_updater.bat
 ```
-:::
-::: code-group-item Linux/MacOS
-```bash
+
+</template>
+<template v-slot:linuxmac>
+
+```linuxmac
 chmod +x scripts/languagelist_updater.sh
 bash scripts/languagelist_updater.sh
 ```
-:::
-::::
+
+</template>
+</CodeSwitcher>
 
 ### Build GLFW Stub
 
-:::: code-group
-::: code-group-item Windows
-```gradlew
+<CodeSwitcher :languages="{win:'Windows',linuxmac:'Linux/MacOS'}">
+<template v-slot:win>
+
+```win
 ./gradlew :jre_lwjgl3glfw:build
 ```
-:::
-::: code-group-item Linux/MacOS
-```gradle
+
+</template>
+<template v-slot:linuxmac>
+
+```linuxmac
 gradle :jre_lwjgl3glfw:build
 ```
-:::
-::::
+
+</template>
+</CodeSwitcher>
 
 ### Build the Launcher
 
-:::: code-group
-::: code-group-item Windows
-```gradlew
+<CodeSwitcher :languages="{win:'Windows',linuxmac:'Linux/MacOS'}">
+<template v-slot:win>
+
+```win
 ./gradlew.bat :app_pojavlauncher:assembleDebug
 ```
-:::
-::: code-group-item Linux/MacOS
-```gradle
+
+</template>
+<template v-slot:linuxmac>
+
+```linuxmac
 ./gradlew :app_pojavlauncher:assembleDebug
 ```
-:::
-::::
+
+</template>
+</CodeSwitcher>
