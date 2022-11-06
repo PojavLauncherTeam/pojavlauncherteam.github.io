@@ -32,5 +32,12 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 - [Pizza Client](https://qolhub.kieruken.dev/) 
 - [Cheeto Client](https://qolhub.kieruken.dev/)
 
+# Credits
 
-Most stuff pulled from [here](https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948) and [this guy](https://github.com/ZenZenXDz)
+- https://github.com/Mathias-Boulay/ and other people in issue [#1948](https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948)
+
+- https://github.com/ZenZenXDz
+
+- https://github.com/nevfuxon
+
+- https://github.com/GaucovyAero
