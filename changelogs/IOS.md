@@ -1,7 +1,7 @@
 # PojavLauncher iOS
 
 ## 2.1 "Sculk Catalyst"
-Although this is a minor release, a lot of changes were done to make this a complete launcher.
+Minor release, major changes!
 
 ### Jailbreak requirement
 PojavLauncher no longer requires a jailbreak to work, so it will also work on the latest iOS version. While it works, certain features are limited:
@@ -16,18 +16,21 @@ If installed with TrollStore, these limitations aren’t applied, as it has sand
 * Automatic Java version and Renderer selection
 * Cosmetica custom capes integration
 * Complete Controller support
+* Fullscreen AirPlay display support
 * Keyboard and mouse support deepened
 * Many settings that were missing from Android are added
+* (iPadOS 16) Stage Manager support
 
 ### Security
 * Patch log4shell exploit in client
 
 ### User interface
+* Added vertical UI
 * Redesigned Launcher UI to match Android
 * The current login state will be shown in the title
 * Play button is greyed out when launching
 * Back button is hidden when launching
-* Custom controls UI completed!
+* Custom controls UI completed
 * The control button editor is now a movable window
 * When game crash occurs, Log Output will be shown for user to determine the problem in place
 * Multilingual support: you can contribute your translation through Crowdin
