@@ -18,7 +18,7 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 - [Skytils](https://github.com/Skytils/SkytilsMod) **(1.3.0-pre5 works)**
 - [Patcher](https://github.com/Sk1erLLC/Patcher) **(1.6.1 works)**
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) **(Works on 1.12)**
-- [Armourer's Workshop**(1.18.2)**] (https://www.curseforge.com/minecraft/mc-mods/armourers-workshop)
+- [Armourer's Workshop**(1.18.2)**](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop)
 # Unsupported Clients
 
 - [BatMod](https://batmod.com/)
