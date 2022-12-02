@@ -26,7 +26,7 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 - [MysteryMod](https://mysterymod.net/) *(Not fully tested, but works as it's a Labymod "fork")*
 - [Lunar Client](https://www.lunarclient.com/) **(Obvious reason ".exe")**
 - [Badlion Client](https://client.badlion.net/) **(same as Lunar)**
-- [SkyClient](https://skyclient.co/) **(*Freezes on mod installation*)**
+- [SkyClient](https://skyclient.co/) (*Freezes on mod installation*)
 
 # Unsupported Cheats
 
