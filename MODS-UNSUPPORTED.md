@@ -30,7 +30,7 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 
 # Unsupported Cheats
 
-- [Meteor Client](https://meteorclient.com/)
+- [Meteor Client](https://meteorclient.com/) **(Virgl Works)**
 - [Pizza Client](https://qolhub.kieruken.dev/) 
 - [Cheeto Client](https://qolhub.kieruken.dev/)
 
