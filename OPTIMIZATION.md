@@ -11,7 +11,8 @@ OptiFine, previously known as Optimine and OptiFog; is a Minecraft modification 
 
 - Depending on what Minecraft version you mainly use, get the specific OptiFine for it. Let's say; I play 1.12.2, so I'll get the latest 1.12.2 OptiFine available.
 ![1.12.2OFSc](https://media.discordapp.net/attachments/955349865758601266/1035479282627137576/Screenshot_2022-10-28_17-03-03.png)
-## Sodium, downside it disables **all** the performance configuration.
-As for now **Sodium** can be run on HolyGL renderer by using this [patcher](https://cdn.discordapp.com/attachments/824307242533781514/1048890510846214195/pojavpatcher-1.0.1-SNAPSHOT.jar)
+## Sodium
+As for now **Sodium** can be run on HolyGL renderer by using this [patcher](https://cdn.discordapp.com/attachments/824307242533781514/1048890510846214195/pojavpatcher-1.0.1-SNAPSHOT.jar),
+ downside it disables **all** the performance configuration.
 ## "Optimizing" ModPacks
 ## JVM Arguments
