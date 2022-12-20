@@ -22,5 +22,6 @@ PojavLauncher does not support every mod available to the Minecraft world. A non
 - [BatMod](https://batmod.com/)
 - [LabyMod](https://www.labymod.net/en) **(only 1.8.9)**
 - [Meteor Client](https://meteorclient.com/)
+- [Pixelmon mod](https://www.curseforge.com/minecraft/mc-mods/pixelmon)
 
 Most stuff pulled from [here](https://github.com/PojavLauncherTeam/PojavLauncher/issues/1948)
