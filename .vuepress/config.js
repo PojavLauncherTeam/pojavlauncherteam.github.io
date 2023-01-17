@@ -84,6 +84,7 @@ module.exports = {
 					collapsable: false, // Don't allow collapsing
 					sidebarDepth: 1,
 					children: [
+					  'ABOUTPOJAV', // About PojavLauncher, Licenses, and Credits
 					    'INSTALL', // Installing PojavLauncher
                         'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
