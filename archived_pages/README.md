@@ -8,3 +8,4 @@ Pages currently in the archive:
 [Interacting with our fellow developers (PARTNERSHIPS)](PARTNERSHIPS.md)  
 [OpenJDK 8, coming to iOS (JDK8)](JDK8.md)
 [Installing PojavLauncher (ft. Linux)](DEVICES_LINUX_INCL.md)
+[Offline mode is going places.](LOCAL-MODE.md)

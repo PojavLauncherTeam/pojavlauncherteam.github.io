@@ -166,7 +166,6 @@ module.exports = {
             children: [
 				'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
 				'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
-				'LOCAL-MODE', // Offline mode is going places
             ]
 
         },
