@@ -164,6 +164,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
+        'VUI', // PojavLauncher's new User Interface: VUI
 				'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
 				'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
             ]
