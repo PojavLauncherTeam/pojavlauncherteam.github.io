@@ -1,8 +1,8 @@
 # Unsupported Mods
 PojavLauncher does not support every mod available to the Minecraft world. A non-exhaustive list is provided below:
 
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) **(not supported by GL4ES, works with ANGLE and virglrenderer)**
-- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files) **(same as Sodium ^)**
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) **(not supported by GL4ES, works with ANGLE and virglrenderer*)**
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files) **(same as Sodium*)**
 - [Chlorine](https://www.curseforge.com/minecraft/mc-mods/chlorine) 
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable) **(Works on 1.12)**
