@@ -6,5 +6,3 @@ Offline mode/cracked mod is now completely removed from the launcher.But you can
 
 ### To purchase Minecraft [Click Here](https://www.minecraft.net/).
 
-## Don't tell anyone
-If you still want to play minecraft for free [Click Here](https://www.minecraft.net/en-us/get-minecraft)
