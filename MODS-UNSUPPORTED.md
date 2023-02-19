@@ -29,6 +29,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 ## Other Mods
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
+- [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
 - [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable) **(Works on 1.12)**
 - [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
 - ItemPhysic (**[Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite) works**)
