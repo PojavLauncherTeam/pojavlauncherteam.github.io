@@ -1,7 +1,7 @@
 # Unsupported Mods
 Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that may not work:
 
-## Performance Mods + Shaders
+## Performance Mods / Shaders
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) **([patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B) for GL4ES)**
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files) **([patch](https://www.mediafire.com/folder/jcyrf8l0osn4m/Rubidium_1.17%2B) for GL4ES)**
 - [Chlorine](https://www.curseforge.com/minecraft/mc-mods/chlorine)
