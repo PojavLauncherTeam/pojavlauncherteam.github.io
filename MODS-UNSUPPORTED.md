@@ -1,4 +1,4 @@
-# Unsupported Mods
+# Unsupported Mods and Clients
 Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that may not work:
 
 ## Performance Mods + Shaders
@@ -45,7 +45,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) **(Works on 1.12)**
 - [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)
 - [DiscordRPC](https://www.curseforge.com/minecraft/mc-mods/discordrpc) - **Big note here. If your PvP/Hack Client crashes because of this, contact their developers for a fix.**
-# Unsupported Clients
+
+## Unsupported Clients
 
 - [BatMod](https://batmod.com/)
 - [LabyMod](https://www.labymod.net/en)
