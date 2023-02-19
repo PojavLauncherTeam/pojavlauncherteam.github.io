@@ -122,7 +122,7 @@ module.exports = {
 					collapsable: true, 
 					sidebarDepth: 1,
 					children: [
-						'CUSTOM-MC', // Installing custom versions of Minecraft
+						'MODDED-MC', // Installing custom versions of Minecraft
 						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
 						'ENV-VARS', // Using environment variables
