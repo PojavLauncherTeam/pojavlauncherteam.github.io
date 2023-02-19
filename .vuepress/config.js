@@ -140,6 +140,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
+        'ABOUTPOJAV', // What's PojavLauncher? (plus credits)
 				'LEGAL', // Legal + Security
 				'DEVICES', // Supported Devices
 				'MCVERS', // Supported Minecraft Versions
