@@ -1,5 +1,5 @@
 # Unsupported Mods and Clients
-Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that may not work:
+Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that **may** not work.
 
 ## Performance Mods + Shaders
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) **([patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B) for GL4ES)**
@@ -44,6 +44,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Immersive Vehicles](https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator) **(Forge Only)**
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) **(Works on 1.12)**
 - [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)
+- [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [DiscordRPC](https://www.curseforge.com/minecraft/mc-mods/discordrpc) - **Big note here. If your PvP/Hack Client crashes because of this, contact their developers for a fix.**
 
 ## Unsupported Clients
