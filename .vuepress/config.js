@@ -111,6 +111,13 @@ module.exports = {
 							sidebarDepth: 1,
 							children: [
 								'PARSINGERROR', // "Error while parsing the package" error fix
+								'32BIT', // Platform and performance limitations (32bit)
+								'NOTCHFIX', // Pojav's notch-detection system on crap chinese spinoff phones
+								'FFMPEG', // Setting up FFMPEG, for Replay Mod
+								'ZINK', // What's Zink, and why it's not what you think
+								'SHADERS', // Look what we got here.
+								'3PTYCLIENTS', // Reminders about installing third party clients from unknown sources
+								'117CC', // Basics to get 21w10(?)a+ running. Useless
 							]
 						},
 						// FAQ that applies to both platforms goes here
@@ -122,9 +129,9 @@ module.exports = {
 					collapsable: true, 
 					sidebarDepth: 1,
 					children: [
-						'CUSTOM-MC', // Installing custom versions of Minecraft
 						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
+						'MODDED-MC', // Modded Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
 						'ENV-VARS', // Using environment variables
 						'JAVA-ARGS', // Adding custom Java arguments
