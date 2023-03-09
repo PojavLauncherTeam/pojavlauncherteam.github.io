@@ -1,10 +1,5 @@
 # Offline mode is going places.
+Offline mode has been replaced by local accounts, which still allows you to play Minecraft offline but does not allow you to download Minecraft. In order to download Minecraft, you will have to sign in to the launcher using a online account (Microsoft/Mojang account with Minecraft purchased)
 
-Offline mode/cracked mod is now completely removed from the launcher.But you can still create offline account but you willn't be able to play Minecraft.For that you need Microsoft/Mojang account that has purchased the Minecraft Java edition.
-
-**Pojavlauncher does't support any type of piracy or related action.**
-
-### To purchase Minecraft [Click Here](https://www.minecraft.net/).
-
-## Don't tell anyone
-If you still want to play minecraft for free [Click Here](https://www.minecraft.net/en-us/get-minecraft)
+PojavLauncher does **NOT**, and will **NEVER** support **piracy acts**. You MUST purchase Minecraft legally and follow Mojang's Terms of Service to download Minecraft.
+To purchase Minecraft [click this](https://www.minecraft.net/).
