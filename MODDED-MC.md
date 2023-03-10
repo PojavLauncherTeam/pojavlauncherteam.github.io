@@ -4,7 +4,7 @@ If you want an old mod or modpack to run (Minecraft 1.2.4 and older), this is fo
 
 ### Installation:
 
-1. Install [**MiXplorer**](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) and [**MiX Archive**](https://play.google.com/store/apps/details?id=com.mixplorer.addon.archive)
+1. If you are on Android, install [**MiXplorer**](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) and [**MiX Archive**](https://play.google.com/store/apps/details?id=com.mixplorer.addon.archive)
 2. Make a copy of the Minecraft version you want to modify
 3. Rename the custom version **folder**, **.jar** and **.json** to your desired custom version name (for example, **foo**, **foo.jar**, **foo.json**)
 4. Open the custom version's **.json** with MiX's **Text Editor**
