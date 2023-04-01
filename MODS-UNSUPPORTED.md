@@ -9,9 +9,10 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders), [Iris Installer](https://irisshaders.net/download)
 - [OptiFine](https://optifine.net/home) (**Render Regions don't work**, everything else does) - Big note here. The only supported shaders are [Open4ES](https://www.mediafire.com/folder/cp87zpb3ichj7/Open4ES) for GL4ES. They only work on some Qualcomm Snapdragon CPUs and Minecraft 1.8 to 1.16.5. Open4ES supported phones/SoCs below:
 
-	- **Poco F3** (Snapdragon 870)
-	- **Oppo A53** (Snapdragon 460)
+	- **Xiaomi Poco F3** (Snapdragon 870)
+	- **Xiaomi Poco X5 Pro** (Snapdragon 778G)
 	- **Xiaomi Redmi Note 8** (Snapdragon 665)
+	- **Oppo A53** (Snapdragon 460)
 
 ## Skyblock Mods
 - [Essential](https://essential.gg/)
