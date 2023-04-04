@@ -7,7 +7,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Chlorine](https://www.curseforge.com/minecraft/mc-mods/chlorine)
 - [ShadersMod (GLSL Shaders)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286604-shaders-mod-updated-by-karyonix)
 - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders), [Iris Installer](https://irisshaders.net/download)
-- [OptiFine](https://optifine.net/home) (**Render Regions don't work**, everything else does) - Big note here. The only supported shaders are [Open4ES](https://www.mediafire.com/folder/cp87zpb3ichj7/Open4ES) for GL4ES. They only work on some Qualcomm Snapdragon CPUs and Minecraft 1.8 to 1.16.5. Open4ES supported phones/SoCs below:
+- [OptiFine](https://optifine.net/home) (**Render Regions don't work**, everything else does) - Big note here. The only supported shaders are [Open4ES](https://www.mediafire.com/folder/cp87zpb3ichj7/Open4ES) for GL4ES. It works best with Adreno graphics (found in Qualcomm Snapdragon SoCs) and PowerVR graphics, with required patches (found in several low-end MediaTek SoCs). Mali GPUs are not supported. Below is a list of smartphones that are tested and works with Open4ES:
 
 	- **Xiaomi Poco F3** (Snapdragon 870)
 	- **Xiaomi Poco X5 Pro** (Snapdragon 778G)
