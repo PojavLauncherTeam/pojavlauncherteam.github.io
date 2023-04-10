@@ -1,4 +1,5 @@
 # Renderers
+Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (GLES). And since Minecraft won't run on GLES, we have to use renderers as compatibility layers between OpenGL ES and OpenGL.
 ## Holy GL4ES
 - Designed for performance, Holy GL4ES is the default renderer in PojavLauncher and should be used in almost all scenrarios. 
 - Supports OpenGL 2.1 and has shader converting capabilities, thus makes up for about 1/8 of the OpenGL 3.x standard.
