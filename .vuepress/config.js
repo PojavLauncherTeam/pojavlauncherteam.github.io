@@ -133,7 +133,7 @@ module.exports = {
 					children: [
 						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
-						'MODDED-MC', // Modded Minecraft!
+						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
 						'ENV-VARS', // Using environment variables
 						'JAVA-ARGS', // Adding custom Java arguments
