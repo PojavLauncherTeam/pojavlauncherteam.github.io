@@ -6,6 +6,19 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/': {
+      lang: 'en-US', // this will be set as the lang attribute on <html>
+      title: 'VuePress',
+      description: 'Vue-powered Static Site Generator'
+    },
+    '/zh/': {
+      lang: 'zh-CN',
+      title: 'VuePress',
+      description: 'Vue 驱动的静态网站生成器'
+    },
     title: 'PojavLauncher',
 	description: 'A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS',
     head: [
