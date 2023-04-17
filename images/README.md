@@ -36,4 +36,4 @@ Submit/Open a pull request on this repository!
 
 <div align="center">
 
-`^ w ^` -NeveuXon/Nev
+`^ w ^` - Vinn Stellar
