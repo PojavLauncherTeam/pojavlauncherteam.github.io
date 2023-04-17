@@ -9,5 +9,5 @@ actionText: Proceed →
 actionLink: /INSTALL.md
 
 copyright: false
-footer: GPLv3 Licensed | Copyright © 2022, PojavLauncherTeam
+footer: GPL, MIT, and BSD Licensed | Copyright © 2019-2023 PojavLauncherTeam
 ---
