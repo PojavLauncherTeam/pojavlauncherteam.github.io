@@ -72,7 +72,7 @@ module.exports = {
 		}
 	},
 
-    theme: 'vuepress-theme-succinct',
+    theme: 'vuepress-theme-mix',
     globalUIComponents: [
         'ThemeManager'
     ],
