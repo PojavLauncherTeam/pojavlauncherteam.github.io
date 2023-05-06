@@ -1,6 +1,6 @@
 # PojavLauncher iOS
 
-# 2.2 "Deepslate"
+## 2.2 "Deepslate"
 With this release of PojavLauncher, we refined features, fixed bugs, and implemented small additions to existing ones to buff user experience. While there are not many notable changes to discuss here, there are some we can show:
 - Implemented a controller configurator
 - Increased reliability in various places
