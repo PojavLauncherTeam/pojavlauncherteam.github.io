@@ -1,5 +1,20 @@
 # PojavLauncher iOS
 
+# 2.2 "Deepslate"
+With this release of PojavLauncher, we refined features, fixed bugs, and implemented small additions to existing ones to buff user experience. While there are not many notable changes to discuss here, there are some we can show:
+- Implemented a controller configurator
+- Increased reliability in various places
+- Added haptics to the on-screen controls
+- Switched to new input methods to speed up control times
+- Secured demo mode
+- Added new preferences to control more of the app
+- Resolve various issues with windowing in older versions
+- and many, many more!
+
+**This is the last major release of PojavLauncher that will support iOS 12 and 13.** Important security patches and bug fixes will be applied when required for a limited time, however take note that issues encountered will not be considered high priority. See more information in #547.
+
+A full commit changelog is available [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/compare/v2.1.3...v2.2).
+
 ## 2.1 "Sculk Catalyst"
 Minor release, major changes!
 
