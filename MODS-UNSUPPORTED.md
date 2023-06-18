@@ -13,7 +13,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- **Xiaomi Poco X5 Pro** (Snapdragon 778G)
 	- **Xiaomi Redmi Note 8** (Snapdragon 665)
 	- **Oppo A53** (Snapdragon 460)
-
+- [Distant Horizons]
+(https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 ## Skyblock Mods
 - [Essential](https://essential.gg/)
 - [Skytils](https://github.com/Skytils/SkytilsMod) **([1.3.0-pre5](https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar) works)**
