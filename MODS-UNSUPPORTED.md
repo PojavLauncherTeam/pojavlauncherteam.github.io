@@ -46,8 +46,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) **(Works on 1.12)**
 - [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)
 - [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
-- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [DiscordRPC](https://www.curseforge.com/minecraft/mc-mods/discordrpc) - **Big note here. If your PvP/Hack Client crashes because of this, contact their developers for a fix.**
+- [Music Player](https://www.curseforge.com/minecraft/mc-mods/music-player) - **Unfortunately, lavaplayer's native libraries are not compiled for Android.**
 
 ## Unsupported Clients
 
