@@ -15,11 +15,9 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- **Oppo A53** (Snapdragon 460)
 
 ## Skyblock Mods
-- [Essential](https://essential.gg/)
-- [Skytils](https://github.com/Skytils/SkytilsMod) **([1.3.0-pre5](https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar) works)**
-- [Patcher](https://github.com/Sk1erLLC/Patcher) **([1.6.1](https://www.mediafire.com/file/7a3gubce278k338/Patcher-1.6.1_1.8.9.jar/file) works)**
-- [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases) **([2.1.1-pre-1](https://www.mediafire.com/file/u0l09df4riulu2w/NotEnoughUpdates-2.1.1-pre-1.jar/file) works)**
-- [Skyblock Extras](https://sbewebsite.appspot.com/)
+- If mods like Skytills doesn't work, try adding [Essential](https://essential.gg/download) to your mods folder.
+- [Patcher](https://github.com/Sk1erLLC/Patcher) *Breaks fonts and entities* **([1.6.1](https://www.mediafire.com/file/7a3gubce278k338/Patcher-1.6.1_1.8.9.jar/file) works)**
+- [Skyblock Extras](https://sbewebsite.appspot.com/) (**Need check**)
 
 ## Input-related Mods
 - [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/releases)
