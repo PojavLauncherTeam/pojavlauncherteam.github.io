@@ -68,7 +68,7 @@ module.exports = {
         lastUpdated: true,
         repo: 'https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io/',
 		docsDir: '',
-		docsBranch: 'main',
+		docsBranch: 'lunaveux-patch-1',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
         logo: 'logo.png',
