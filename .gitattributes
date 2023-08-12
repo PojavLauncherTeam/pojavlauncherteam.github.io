@@ -50,15 +50,15 @@
 Dockerfile    text
 
 ## DOCUMENTATION
-*.markdown   text
-*.md         text
-*.mdwn       text
-*.mdown      text
-*.mkd        text
-*.mkdn       text
-*.mdtxt      text
-*.mdtext     text
-*.txt        text
+*.markdown   text eol=lf
+*.md         text eol=lf
+*.mdwn       text eol=lf
+*.mdown      text eol=lf
+*.mkd        text eol=lf
+*.mkdn       text eol=lf
+*.mdtxt      text eol=lf
+*.mdtext     text eol=lf
+*.txt        text eol=lf
 AUTHORS      text
 CHANGELOG    text
 CHANGES      text
