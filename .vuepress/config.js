@@ -87,6 +87,7 @@ module.exports = {
 					    'INSTALL', // Installing PojavLauncher
                         'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
+						'INSTALL-MC', // Downloading Minecraft
 						'DEFAULT-CONTROLS', // Taking a look at the controls
 					]
 				},
