@@ -21,10 +21,10 @@
 ### Minimum requirements:
 - Apple A8 SoC
    - The Apple A7 SoC is losing support in PojavLauncher 2.3.
-- iOS 12
+- iOS 14
 - 1GB RAM
 
 ### Recommended requirements:
-- Apple A10/A10X Fusion SoC
+- Apple A14/A12X Bionic SoC
 - iOS 14
-- 2GB RAM
+- 4GB RAM
