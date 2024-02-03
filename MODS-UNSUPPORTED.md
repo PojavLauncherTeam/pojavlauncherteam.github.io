@@ -50,7 +50,6 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - [Lunar Client](https://www.lunarclient.com/)[^10]
 - [Badlion Client](https://client.badlion.net/)[^10]
 - [Salwyrr Client](https://www.salwyrr.com/)[^10]
-- [Meteor Client](https://meteorclient.com/)
 - [Pizza Client](https://qolhub.kieruken.dev/) 
 - [Cheeto Client](https://qolhub.kieruken.dev/)
 - [3arthh4ck](https://github.com/3arthqu4ke/3arthh4ck) ([patched](https://www.mediafire.com/file/n7ey56j5aued7r0/3arthh4ck-1.8.7-release.jar/file) version here)
