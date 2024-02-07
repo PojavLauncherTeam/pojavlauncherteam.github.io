@@ -10,4 +10,4 @@ Popular examples of these can be found on the [CurseForge](https://www.curseforg
 These modpacks are specially made for PojavLauncher, but it doesn't mean you can't try them on PC too!
 
 ## Installing Modpacks
-⚠️ There is NO modpack installer in the launcher itself. It won't be added in the near future.
+You can install a modpack from PojavLauncher itself
