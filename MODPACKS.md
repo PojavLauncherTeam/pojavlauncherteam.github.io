@@ -11,3 +11,4 @@ These modpacks are specially made for PojavLauncher, but it doesn't mean you can
 
 ## Installing Modpacks
 You can install a modpack from PojavLauncher itself
+![](https://github.com/MegaFaresX/pojavlauncherteam.github.io/blob/main/images/Screenshots/Modpacks/Screenshot_2024-02-08-01-12-24-85_bab8561a5f94f0a53956d8cbbeaad774.jpg)
