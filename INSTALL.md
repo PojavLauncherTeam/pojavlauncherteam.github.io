@@ -12,8 +12,7 @@ You can grab PojavLauncher from the Google Play Store [here.](https://play.googl
 
 If you want the latest and greatest to test before the official release, you can grab a copy from GitHub Actions.
 
-1. Start off by heading to the [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) repository and switching to the "Actions" tab.
-
+1. Start off by heading to the [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) repository and switching to the "Actions"         enter your Microsoft acc6
 ![](./images/Actions/android/Android-Actions-1.png)
 
 2. Next, select "Android CI" in the workflow selection menu.
