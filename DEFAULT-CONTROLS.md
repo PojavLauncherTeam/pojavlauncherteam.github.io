@@ -20,4 +20,4 @@ TAB - Presses tab (what did you expect)
 3RD - Toggle perspective
 MOUSE - Hides/Shows the virtual mouse (Drag to move, tap to click, hides automatically when in game)
 
-You can edit these controls at any time using the [custom controls editor]()
+You can edit these controls at any time using the [custom controls editor](CUSTOM-CONTROLS.md)
