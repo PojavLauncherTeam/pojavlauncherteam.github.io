@@ -1,7 +1,7 @@
 # Taking a look at the controls
 
 When you load into the game, you will see a control scheme like this:
-![screenshot of controls]()
+![screenshot of controls](images/Screenshots/controls-ingame.png)
 
 The controls are very similar to MCPE's old controls. (without the joystick)
 
