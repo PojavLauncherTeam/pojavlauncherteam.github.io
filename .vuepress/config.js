@@ -101,7 +101,6 @@ module.exports = {
 							collapsable: true, // Don't allow collapsing
 							sidebarDepth: 1,
 							children: [
-								'JETSAM', // Dealing with iOS memory limits
 								'JIT', // iOS and "JIT"
 							]
 						},
