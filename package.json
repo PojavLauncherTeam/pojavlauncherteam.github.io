@@ -16,14 +16,15 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@vuepress/plugin-back-to-top": "^1.8.2",
-		"vuepress": "^1.8.2",
+		"vuepress": "^1.9.9",
 		"vuepress-bar": "^0.4.2",
 		"vuepress-plugin-code-copy": "^1.0.6",
+		"vuepress-plugin-code-switcher": "1.0",
 		"vuepress-plugin-flexsearch": "^0.2.0",
 		"vuepress-plugin-medium-zoom": "^1.1.9",
 		"vuepress-plugin-smooth-scroll": "^0.0.10",
-		"vuepress-theme-succinct": "^1.7.2",
-                "vuepress-plugin-code-switcher": "1.0"
+		"vuepress-theme-mix": "^2.0.0-alpha.6",
+		"vuepress-theme-succinct": "^1.7.2"
 	},
 	"dependencies": {
 		"markdown-it-multimd-table": "^4.1.3",

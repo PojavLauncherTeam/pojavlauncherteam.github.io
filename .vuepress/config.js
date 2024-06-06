@@ -169,7 +169,7 @@ module.exports = {
 
         },
         {
-            title: 'Recent Updates', // Category about recent developments
+            title: 'Legal Mumbo Jumbo', // Category about recent developments
             collapsable: false,
             sidebarDepth: 1,
             children: [
