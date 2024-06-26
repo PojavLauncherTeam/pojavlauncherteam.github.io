@@ -64,7 +64,7 @@ We recommend TrollStore for all users if possible. This method allows for automa
 
 	(*) - No Installation Method.
 
-1. Follow the steps to install [TrollStore](https://github.com/opa334/TrollStore).
+1. Follow the steps to install [TrollStore](https://ios.cfw.guide/installing-trollstore/).
  
 2. Download the latest release from [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa).
     - For a specific release, you can find its package on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
