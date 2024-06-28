@@ -102,6 +102,8 @@ module.exports = {
 							sidebarDepth: 1,
 							children: [
 								'JIT', // iOS and "JIT"
+								'APPSTORE', // Will PojavLauncher ever come to App Store for iOS?
+								'IOSMODPACKS', // how do i install modpacks on PojavLauncher iOS?
 							]
 						},
 						{
