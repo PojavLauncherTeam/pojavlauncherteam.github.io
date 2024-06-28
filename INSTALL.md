@@ -8,9 +8,13 @@ You can grab PojavLauncher from the Google Play Store [here.](https://play.googl
 :::
 
 ::: details GitHub Actions
-**Requires a GitHub account in order to download.**
-
 If you want the latest and greatest to test before the official release, you can grab a copy from GitHub Actions.
+
+**Using nightly.link:**
+1. Download the [Latest Artifact](https://nightly.link/PojavLauncherTeam/PojavLauncher/workflows/android/v3_openjdk/app-debug.zip) using this link.
+2. Install as any usual .apk
+
+**Using Github (requires an account):**
 
 1. Start off by heading to the [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) repository and switching to the "Actions" tab.
 
@@ -30,7 +34,7 @@ If you want the latest and greatest to test before the official release, you can
 
 ![](./images/Actions/android/Android-Actions-4.png)
 
-Once you have an Actions build downloaded, you can now unzip the file and install it as you would any other .apk file.
+5. Install as any usual .apk
 :::
 
 ::: details Source
