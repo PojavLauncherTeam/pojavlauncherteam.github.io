@@ -1,1 +1,2 @@
 # Taking a look at the controls
+First, let's take a look at the movement pad. The buttons on the side are directions and the button in the middle is the crouch button. The top buttons 'PRI' and 'Sec' are the primary and secondary mouse buttons (left and right click). The 'Keyboard' button lets you type using your device's keyboard. The 'Esc' button is equivalent to Escape on PC. The '⬛' button is used to jump. The 'Tab' button at the top is used to press Tab, which shows you the player list if you are on a server.
