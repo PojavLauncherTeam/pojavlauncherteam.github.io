@@ -89,6 +89,7 @@ module.exports = {
 						'SIGN-IN', // Signing in
 						'INSTALL-MC', // Downloading Minecraft
 						'DEFAULT-CONTROLS', // Taking a look at the controls
+						'DISCORD', // Official PojavLauncher Discord Server
 					]
 				},
 				{
