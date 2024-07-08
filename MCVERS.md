@@ -7,7 +7,7 @@ Thanks to the hard work from PojavLauncherTeam, both the Android and the iOS por
 ...with some small exceptions that will be listed below.
 
 ## Android
-Current issues, as of the Dahlia update
+Current issues, as of the Foxglove update
 
 ## iOS
-Current issues, as of the Raw Iron update
+Current issues, as of the v2.2 Deepslate update
