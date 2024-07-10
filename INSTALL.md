@@ -51,19 +51,12 @@ We recommend TrollStore for all users if possible. This method allows for automa
 
    #### For arm64, TrollStore is compatible with the following iOS versions:
   
-    - 14.0 to 14.8.1
-    - 15.0 to 15.8
-    - 16.0 to 16.6.1
+    - 14.0 to 16.6.1
     - 17.0
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
-    - 14.0 to 14.8.1
-    - 15.0 to 15.7.1
-    - 16.0 to 16.5
-    - 16.5.1 (*)
-    - 16.6 beta 1
-    - 16.6 beta 2 to 16.6.1 (*)
+    - 14.0 to 16.6.1
     - 17.0 (*)
 
 	(*) - No Installation Method.
