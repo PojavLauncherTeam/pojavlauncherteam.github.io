@@ -50,11 +50,11 @@ Notes:
 - This will be an extremely lengthy guide, so you’ll need a bunch of spare time.
 - Only compatible for iOS/iPadOS 16 - 16.6.1
 
-1.Now that you have gotten __AdGuard__ from the __App Store__, you are going to want __open the **Settings** app__, scroll down to **Safari**, and tap on extensions.
+1. Now that you have gotten __AdGuard__ from the __App Store__, you are going to want __open the **Settings** app__, scroll down to **Safari**, and tap on extensions.
 
 __Enable **AdGuard**__, and **__allow all__** of its content blockers.
 
-2.Open __[Scarlet](https://usescarlet.com/)__.
+2. Open __[Scarlet](https://usescarlet.com/)__.
 
 Scroll down to the bottom of the page and click the “**Install**” button.
 
@@ -70,11 +70,11 @@ When it displays the message:“would you like to install [insert random certifi
 
 Note: due to scarlet using random enterprise certificates, the will commonly get revoked. if it is revoked try to install scarlet every few hours.
 
-3.Next, go to Settings, General, VPN and Device Management, and where it says “enterprise app” should be a random certificate that says “Not Trusted” click it, and click Trust “(Random Scarlet Certificate)”
+3. Next, go to Settings, General, VPN and Device Management, and where it says “enterprise app” should be a random certificate that says “Not Trusted” click it, and click Trust “(Random Scarlet Certificate)”
 when prompted to trust it, click “Trust”
 you should now be able to open scarlet.
 
-4.Download the [TrollinstallerX.ipa](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa)
+4. Download the [TrollinstallerX.ipa](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa)
 ^ This is your TrollStore installer ^
 
 5. Open the Scarlet app, click the bottom middle button, and click the button in the top right corner. in the file browser, open the .ipa from where you've had saved it (regularly it would be in the Downloads folder.) and sideload the [TrollinstallerX.ipa](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa)
