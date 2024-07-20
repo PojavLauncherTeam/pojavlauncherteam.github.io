@@ -44,6 +44,48 @@ If you want the latest and greatest to test before the official release, you can
 ## iOS
 Instructions for installing PojavLauncher on Apple devices.
 
+::: details Sideloading TrollStore (No PC/Mac)
+Notes:
+- It is **highly recommended** you install __AdGuard__ from the __App Store__ to block Scarlet’s annoying ads
+- This will be an extremely lengthy guide, so you’ll need a bunch of spare time.
+- Only compatible for iOS/iPadOS 16 - 16.6.1
+
+1. Now that you have gotten __AdGuard__ from the __App Store__, you are going to want __open the **Settings** app__, scroll down to **Safari**, and tap on extensions.
+
+__Enable **AdGuard**__, and **__allow all__** of its content blockers.
+
+2. Open __[Scarlet](https://usescarlet.com/)__.
+
+Scroll down to the bottom of the page and click the “**Install**” button.
+
+next, click “**Direct install**”
+
+wait the for 10 seconds. **Don’t do anything to the iDevice for 10 seconds**.
+
+when prompted to open the page in iTunes, click Open.
+
+When it displays the message:“would you like to install [insert random certificate here]” click install. you may now close the website.
+
+**Note**: the random unnamed certificate is completely normal. scarlet uses random enterprise certificates to be able to sideload apps on device. 
+
+Note: due to scarlet using random enterprise certificates, the will commonly get revoked. if it is revoked try to install scarlet every few hours.
+
+3. Next, go to Settings, General, VPN and Device Management, and where it says “enterprise app” should be a random certificate that says “Not Trusted” click it, and click Trust “(Random Scarlet Certificate)”
+when prompted to trust it, click “Trust”
+you should now be able to open scarlet.
+
+4. Download the [TrollinstallerX.ipa](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa)
+^ This is your TrollStore installer ^
+
+5. Open the Scarlet app, click the bottom middle button, and click the button in the top right corner. in the file browser, open the .ipa from where you've had saved it (regularly it would be in the Downloads folder.) and sideload the [TrollinstallerX.ipa](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa)
+
+6. Once Scarlet is done installing [TrollinstallerX](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa), open the installed app, and press "Install Trollstore", wait for a pop up that will show a list of System Apps, and pick one. (we suggest picking Tips)
+
+7. After that, the next steps are in the [Github Actions Tab](https://pojavlauncherteam.github.io/INSTALL.html#ios)
+![](./images/Actions/ios/TSNOPC.png)
+Note: enable URL Schemes in TrollStore Settings.
+:::
+
 ::: details Sideloading (TrollStore)
 We recommend TrollStore for all users if possible. This method allows for automatic JIT enabling, more memory allocation, and non-revoking installs.
 
@@ -69,6 +111,7 @@ We recommend TrollStore for all users if possible. This method allows for automa
 3. Locate where the .ipa was downloaded, tap the Share icon, and choose TrollStore in the list of options available.
 
 You can now enjoy Minecraft: Java Edition on your iDevice!
+Note: enable URL Schemes in TrollStore Settings.
 :::
 
 ::: details Sideloading (Unjailbroken)
