@@ -8,9 +8,13 @@ You can grab PojavLauncher from the Google Play Store [here.](https://play.googl
 :::
 
 ::: details GitHub Actions
-**Requires a GitHub account in order to download.**
-
 If you want the latest and greatest to test before the official release, you can grab a copy from GitHub Actions.
+
+**Using nightly.link:**
+1. Download the [Latest Artifact](https://nightly.link/PojavLauncherTeam/PojavLauncher/workflows/android/v3_openjdk/app-debug.zip) using this link.
+2. Install as any usual .apk
+
+**Using Github (requires an account):**
 
 1. Start off by heading to the [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) repository and switching to the "Actions" tab.
 
@@ -30,7 +34,7 @@ If you want the latest and greatest to test before the official release, you can
 
 ![](./images/Actions/android/Android-Actions-4.png)
 
-Once you have an Actions build downloaded, you can now unzip the file and install it as you would any other .apk file.
+5. Install as any usual .apk
 :::
 
 ::: details Source
@@ -47,19 +51,12 @@ We recommend TrollStore for all users if possible. This method allows for automa
 
    #### For arm64, TrollStore is compatible with the following iOS versions:
   
-    - 14.0 to 14.8.1
-    - 15.0 to 15.8
-    - 16.0 to 16.6.1
+    - 14.0 to 16.6.1
     - 17.0
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
-    - 14.0 to 14.8.1
-    - 15.0 to 15.7.1
-    - 16.0 to 16.5
-    - 16.5.1 (*)
-    - 16.6 beta 1
-    - 16.6 beta 2 to 16.6.1 (*)
+    - 14.0 to 16.6.1
     - 17.0 (*)
 
 	(*) - No Installation Method.
