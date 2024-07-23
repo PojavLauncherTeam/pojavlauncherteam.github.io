@@ -2,7 +2,7 @@
 
 ### There is "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
 
-<img src="https://github.com/user-attachments/assets/a476f630-c3a9-4c3c-83d1-ff39454d0105" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/a476f630-c3a9-4c3c-83d1-ff39454d0105" width=50% height=50%>
  
 ### You access the options by clicking the cogwheel at the top of the screen.
 
