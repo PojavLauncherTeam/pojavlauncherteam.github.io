@@ -31,6 +31,7 @@ You can also use:
 - [Jitterbug](https://github.com/osy/Jitterbug/tree/main/Jitterbug) (^)
 
 (*) - AltJIT for iOS 17.x & iOS 18 betas only works on macOS. Requires pymobiledevice3.
+
 (^) - Does not work for iOS 17.x & iOS 18 betas, as enabling JIT will be done with pymobiledevice3.
 
 Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
