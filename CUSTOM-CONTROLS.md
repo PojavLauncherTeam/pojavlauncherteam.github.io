@@ -6,11 +6,11 @@
  
 ### You access the options by clicking the cogwheel at the top of the screen.
 
-<img src="https://github.com/user-attachments/assets/8209a266-524e-45e2-b841-72f1d76aea43" width=70% height=70%>
+<img src="https://github.com/user-attachments/assets/8209a266-524e-45e2-b841-72f1d76aea43" width=75% height=75%>
 
 
 
-<img src="https://github.com/user-attachments/assets/d70b38b8-2396-4bfe-b405-390a369f3776" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/d70b38b8-2396-4bfe-b405-390a369f3776" width=75% height=75%>
 
 #### 1- Adds a button of your liking.
 #### 2- Adds a button drawer, if you press it, your buttons that you assigned will show up.
