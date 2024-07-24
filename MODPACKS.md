@@ -12,6 +12,19 @@ These modpacks are specially made for PojavLauncher, but it doesn't mean you can
 # Installing Modpacks
 
 ## Android
+1. Click on the profile section at top of the play button.
+
+[insert img]
+
+2. Press on the "create new profile" button.
+
+[insert img]
+
+3. Click on "create modpack profile".
+
+[insert img]
+
+4.  Pick your desired modpack, enjoy!
 
 ## iOS
 
