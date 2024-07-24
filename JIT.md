@@ -26,12 +26,16 @@ The only downside to this method is that you are required to be connected to a W
 You can also use:
 - [AltStore](https://faq.altstore.io/how-to-use-altstore/altjit) (*)
 
-- [SideStore](https://wiki.sidestore.io/guides/getting-started/#setting-up-wireguard) (^)
-
 - [Jitterbug](https://github.com/osy/Jitterbug/tree/main/Jitterbug) (^)
+
+- [SideStore](https://docs.sidestore.io/docs/faq/#:~:text=Can%20I%20activate,selecting%20'Enable%20JIT') (^)
+
+- [SideJITServer](https://github.com/nythepegasus/SideJITServer) (!)
 
 (*) - AltJIT for iOS 17.x & iOS 18 betas only works on macOS. Requires pymobiledevice3.
 
 (^) - Does not work for iOS 17.x & iOS 18 betas, as enabling JIT will be done with pymobiledevice3.
+
+(!) - Does not work for iOS 16.x or below, use the other methods listed above to enable JIT. This method is meant for iOS 17.x & iOS 18 betas.
 
 Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
