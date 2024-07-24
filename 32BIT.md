@@ -1,5 +1,5 @@
 # PojavLauncher's 32-bit support
-Most of you, Android users, who are reading this now, won't be bothered by this documentation, but for the poor souls who have a 32-bit device, let's press ~~L~~ F to pay respect to them.
+Most of you, Android users, who are reading this now, won't be bothered by this documentation, but for the poor souls who have a 32-bit device, let's press ~~L~~ F to pay respects to them.
 
 Before ARM transitioned into the more-powerful, more-utilizing `arm64/aarch64` architecture; everyone was using `arm/aarch32`
 
