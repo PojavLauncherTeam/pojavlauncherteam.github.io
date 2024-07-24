@@ -120,8 +120,6 @@ module.exports = {
 								'ZINK', // What's Zink, and why it's not what you think
 								'SHADERS', // Look what we got here.
 								'RENDERERS', // I have no idea what they do and why PojavLauncher needs it.
-								'3PTYCLIENTS', // Reminders about installing third party clients from unknown sources
-								'117CC', // Basics to get 21w10(?)a+ running. Useless
 							]
 						},
 						// FAQ that applies to both platforms goes here
