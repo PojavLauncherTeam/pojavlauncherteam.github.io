@@ -5,7 +5,7 @@ Before ARM transitioned into the more-powerful, more-utilizing `arm64/aarch64` a
 
 We're not here to give you historical information of it, but feel free to read [this documentary about the ARM platform.](https://en.m.wikipedia.org/wiki/ARM_architecture_family)
 
-**You may encounter issues while using PojavLauncher on 32-bit devices. Here's a list of stuff that's known to be problematic:**
+**You may encounter issues while using PojavLauncher on 32-bit devices. Here's a list of things that are known to be problematic:**
 
 ## RAM Allocation
 * **Real 32-bit devices (32-bit hardware and firmware), can't allocate more than 768MB of RAM to PojavLauncher. This can't be changed even if the device has more free RAM.**
