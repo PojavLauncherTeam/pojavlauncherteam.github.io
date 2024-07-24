@@ -14,15 +14,15 @@ These modpacks are specially made for PojavLauncher, but it doesn't mean you can
 ## Android
 1. Click on the profile section at top of the play button.
 
-[insert img]
+<img src="https://github.com/user-attachments/assets/7d76fe6c-e2f0-44b3-aaaf-1cdfc22b9c42" width=45% height=45%>
 
 2. Press on the "create new profile" button.
 
-[insert img]
+<img src="https://github.com/user-attachments/assets/431d8191-c207-40f6-99e4-8f957692782c" width=45% height=45%>
 
 3. Click on "create modpack profile".
 
-[insert img]
+<img src="https://github.com/user-attachments/assets/2fb3e4e6-e9f7-4f2d-a141-44ef3a86cfb3" width=45% height=45%>
 
 4.  Pick your desired modpack, enjoy!
 
