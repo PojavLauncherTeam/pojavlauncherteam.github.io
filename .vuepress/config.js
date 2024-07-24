@@ -104,7 +104,6 @@ module.exports = {
 							children: [
 								'JIT', // iOS and "JIT"
 								'APPSTORE', // Will PojavLauncher ever come to App Store for iOS?
-								'IOSMODPACKS', // how do i install modpacks on PojavLauncher iOS?
 							]
 						},
 						{
@@ -162,9 +161,8 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                'CONT-POJAV', // Contributing to PojavLauncher itself
 				'CONT-WEBSITE', // Contributing to this website
-                'CONT-TRANSLATIONS', //Contributing to PojavLauncher translations, hopefully website translations later on
+               			'CONT-TRANSLATIONS', //Contributing to PojavLauncher translations, hopefully website translations later on
             ]
 
         },
