@@ -12,13 +12,13 @@
 
 <img src="https://github.com/user-attachments/assets/d70b38b8-2396-4bfe-b405-390a369f3776" width=75% height=75%>
 
-#### 1- Adds a button of your liking.
-#### 2- Adds a button drawer, if you press it, your buttons that you assigned will show up.
-#### 3- Adds a joystick.
-#### 4- Loads custom controls.
-#### 5- Saves current custom controls.
-#### 6- Option to select default custom controls.
-#### 7- Exports current controls.
+ 1- Adds a button of your liking.
+ 2- Adds a button drawer, if you press it, your buttons that you assigned will show up.
+ 3- Adds a joystick.
+ 4- Loads custom controls.
+ 5- Saves current custom controls.
+ 6- Option to select default custom controls.
+ 7- Exports current controls.
 
 
 
