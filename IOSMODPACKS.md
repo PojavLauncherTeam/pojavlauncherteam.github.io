@@ -2,7 +2,7 @@
 
 1. go to profiles from the sidebar.
 
-<img src="/images/Actions/ios/1.png" width=45% height=45%>
+<img src="https://github.com/user-attachments/assets/18eb075e-1b0e-4047-82bc-e6946c013e78" width=45% height=45%>
 
 2. press the "+" button
 
