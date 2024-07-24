@@ -28,18 +28,18 @@ These modpacks are specially made for PojavLauncher, but it doesn't mean you can
 
 ## iOS
 
-1. go to profiles from the sidebar.
+1. Go to profiles from the sidebar.
 
 <img src="https://github.com/user-attachments/assets/18eb075e-1b0e-4047-82bc-e6946c013e78" width=45% height=45%>
 
-2. press the "+" button
+2. Press the "+" button
 
 <img src="/images/Actions/ios/2.png" width=45% height=45%>
 
-3. once a prompt appears, press the "Modpack" option.
+3. Once a prompt appears, press the "Modpack" option.
 
 <img src="/images/Actions/ios/3.png" width=45% height=45%>
 
-4. pick your desired modpack, enjoy!
+4. Pick your desired modpack, enjoy!
 
 <img src="/images/Actions/ios/4.png" width=45% height=45%>
