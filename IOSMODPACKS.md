@@ -14,4 +14,4 @@
 
 4. pick your desired modpack, enjoy!
 
-![](./images/Actions/ios/4.png)
+<[](./images/Actions/ios/4.png) width=75% height=75%>
