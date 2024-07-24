@@ -88,7 +88,7 @@ module.exports = {
                         'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
 						'INSTALL-MC', // Downloading Minecraft
-						'DEFAULT-CONTROLS', // Taking a look at the controls
+						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'DISCORD', // Official PojavLauncher Discord server
 					]
 				},
@@ -133,7 +133,6 @@ module.exports = {
 					collapsable: true, 
 					sidebarDepth: 1,
 					children: [
-						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
 						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
