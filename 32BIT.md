@@ -8,9 +8,13 @@ We're not here to give you historical information of it, but feel free to read [
 **You may encounter issues while using PojavLauncher on 32-bit devices. Here's a list of things that are known to be problematic:**
 
 ## RAM Allocation
-* **Real 32-bit devices (32-bit hardware and firmware), can't allocate more than 768MB of RAM to PojavLauncher. This can't be changed even if the device has more free RAM.**
+
+#### Real 32-bit devices (32-bit hardware and firmware), can't allocate more than 768MB of RAM to PojavLauncher. This can't be changed even if the device has more free RAM.
+
 * Examples of real 32-bit SoCs: Qualcomm Snapdragon 801, 800, 600, 400, S4, S3, S2, S1
-* **64-bit devices limited to 32-bit firmware can't allocate more than ~1000MB of RAM. As said earlier, this can't be changed.**
+
+#### 64-bit devices limited to 32-bit firmware can't allocate more than ~1000MB of RAM. As said earlier, this can't be changed.
+
 * Examples of 64-bit SoCs limited to 32-bit firmware: MediaTek Helio G37, G35, G25, P35, P25, P23, P22
 
 ## Performance
