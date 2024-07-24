@@ -95,6 +95,11 @@ We recommend TrollStore for all users if possible. This method allows for automa
   
     - 14.0 to 16.6.1
     - 17.0 
+	- 16.7 to 16.7.8 (*)
+ 	- 17.0.1 to 17.5.1 (*)
+  	- 18 b1 to 18 b4 (*)
+
+ (*) - requires the palera1n jailbreak
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
