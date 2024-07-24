@@ -6,4 +6,5 @@
 Apple Developer Documentation Referenced: [Section 2.5.2](https://developer.apple.com/app-store/review/guidelines/#performance:~:text=Apps%20should%20be,by%20the%20user)
 
 Additionally, $99 per year is required for pushing updates.
-If PojavLauncher is ever pushed to the App Store, you will know.
+
+**If PojavLauncher is ever pushed to the App Store, you will know.**
