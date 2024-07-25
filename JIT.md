@@ -20,11 +20,9 @@ If you used TrollStore to sideload PojavLauncher, good news: PojavLauncher takes
 If you sideload normally, you will need to enable JIT in some way. The most common method is to attach a debug server to the application while it's running - AltStore, SideStore, and Jitterbug all of these use this method to enable JIT. 
 
 ## NOTE for SideStore users on iOS 17 and above!
-JIT (at the moment) can only be enabled through SideJITServer, which requires a computer(Windows, MacOS and Linux only) to be running and the server started in the background.
+JIT (at the moment) can only be enabled through SideJITServer, which requires a computer (Windows, MacOS and Linux only), which utilizes pymobiledevice3 due to changes in iOS. Keep in mind that AltStore users will need AltJIT which, unfortunately, only works on MacOS at the moment.
 
 The only downside to this method is that you are required to be connected to a WiFi network in order to enable JIT. (*)
-
-(*) - For iOS 17.x & iOS 18 betas, enabling JIT will be done with pymobiledevice3, due to changes in iOS. pymobiledevice3 requires a computer to enable JIT. AltJIT via pymobiledevice3 only works on macOS.
 
 You can also use:
 - [AltStore](https://faq.altstore.io/how-to-use-altstore/altjit) (*)
