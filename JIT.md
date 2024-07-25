@@ -30,6 +30,8 @@ Methods to enable JIT:
 
 - [SideStore SideJIT](https://docs.sidestore.io/docs/faq/#:~:text=Can%20I%20activate,selecting%20'Enable%20JIT') (^)
 
+- [SideStore Anisette](https://docs.sidestore.io/docs/intro)
+
 - [SideJITServer](https://github.com/nythepegasus/SideJITServer) (!)
 
 (*) - AltJIT for iOS 17.x & iOS 18 betas only works on macOS. Requires pymobiledevice3.
