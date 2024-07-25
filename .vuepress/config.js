@@ -88,7 +88,7 @@ module.exports = {
                         'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
 						'INSTALL-MC', // Downloading Minecraft
-						'DEFAULT-CONTROLS', // Taking a look at the controls
+						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'DISCORD', // Official PojavLauncher Discord server
 					]
 				},
@@ -104,7 +104,6 @@ module.exports = {
 							children: [
 								'JIT', // iOS and "JIT"
 								'APPSTORE', // Will PojavLauncher ever come to App Store for iOS?
-								'IOSMODPACKS', // how do i install modpacks on PojavLauncher iOS?
 							]
 						},
 						{
@@ -120,8 +119,6 @@ module.exports = {
 								'ZINK', // What's Zink, and why it's not what you think
 								'SHADERS', // Look what we got here.
 								'RENDERERS', // I have no idea what they do and why PojavLauncher needs it.
-								'3PTYCLIENTS', // Reminders about installing third party clients from unknown sources
-								'117CC', // Basics to get 21w10(?)a+ running. Useless
 							]
 						},
 						// FAQ that applies to both platforms goes here
@@ -133,7 +130,6 @@ module.exports = {
 					collapsable: true, 
 					sidebarDepth: 1,
 					children: [
-						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
 						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
@@ -165,9 +161,8 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                'CONT-POJAV', // Contributing to PojavLauncher itself
 				'CONT-WEBSITE', // Contributing to this website
-                'CONT-TRANSLATIONS', //Contributing to PojavLauncher translations, hopefully website translations later on
+               			'CONT-TRANSLATIONS', //Contributing to PojavLauncher translations, hopefully website translations later on
             ]
 
         },
