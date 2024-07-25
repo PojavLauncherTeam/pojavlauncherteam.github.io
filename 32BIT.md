@@ -21,4 +21,4 @@ We won't get into much detail regarding it, but if you'd like to learn more abou
 Due to 32-bit's processing speed limit, Minecraft's performance is always compromised. Even with optimization mods installed, you may receive big stutters even on the lowest settings. Decreasing RAM Allocation may help performance in some scenarios.
 
 ## Compatibility
-As of snapshot [24w14a](https://minecraft.wiki/w/Java_Edition_24w14a), Minecraft has officially dropped support for the 32-Bit architecture, ultimately meaning if you own a 32-Bit device you will NOT be able to run Minecraft 1.20.5+ on said device.
+As of snapshot [24w14a](https://minecraft.wiki/w/Java_Edition_24w14a), Minecraft has officially dropped support for the 32-Bit architecture, ultimately meaning if you own a 32-Bit device you will **NOT** be able to run Minecraft 1.20.5+ on said device.
