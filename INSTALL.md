@@ -47,12 +47,19 @@ Instructions for installing PojavLauncher on Apple devices.
 ::: details Sideloading (TrollStore)
 We recommend TrollStore for all users if possible. This method allows for automatic JIT enabling, more memory allocation, and non-revoking installs.
 
+Note: **Enable URL Schemes in TrollStore settings.**
+
 ### TrollStore compatibility depends on whether your iDevice is arm64 (A8-A11) or arm64e (A12+/M1+)
 
    #### For arm64, TrollStore is compatible with the following iOS versions:
   
     - 14.0 to 16.6.1
-    - 17.0
+    - 17.0 
+	- 16.7 to 16.7.8 (*)
+ 	- 17.0.1 to 17.5.1 (*)
+  	- 18 b1 to 18 b4 (*)
+
+ (*) - requires the palera1n jailbreak
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
