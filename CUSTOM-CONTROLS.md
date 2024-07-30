@@ -1,5 +1,7 @@
 # Customizing the on-screen controls
 
+## Android
+
  There is "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
 
 <img src="https://github.com/user-attachments/assets/a476f630-c3a9-4c3c-83d1-ff39454d0105" width=45% height=45%>
@@ -26,19 +28,6 @@
  
  7- Exports current controls.
 
+## iOS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Work in progress.
