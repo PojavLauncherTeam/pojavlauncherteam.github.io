@@ -66,9 +66,9 @@ Note: **Enable URL Schemes in TrollStore settings.**
     - 14.0 to 16.6.1
     - 17.0 (*)
 
-	(*) - No Installation Method.
+	(*) - No installation method at the moment.
 
-1. Follow the steps to install [TrollStore](https://github.com/opa334/TrollStore).
+1. Follow these steps to install [TrollStore](https://github.com/opa334/TrollStore).
  
 2. Download the latest release from [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa).
     - For a specific release, you can find its package on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
@@ -78,8 +78,8 @@ Note: **Enable URL Schemes in TrollStore settings.**
 You can now enjoy Minecraft: Java Edition on your iDevice!
 :::
 
-::: details Sideloading (Unjailbroken)
-**Requires an active Apple ID, that has signed into the [Developer Portal](https://developer.apple.com/account) at least once.**
+::: details Sideloading (Jailed)
+**Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
 PojavLauncher supports being sideloaded with AltStore, Sideloadly, and Xcode. Instructions to use AltStore are below--for other options, refer to their documentation.
 
@@ -95,7 +95,7 @@ Installing PojavLauncher is not the end for iOS devices. In order to play Minecr
 ::: details Sideloading (Jailbroken)
 **Currently, AppSync Unified is not supported.** There is an [issue](https://github.com/akemin-dayo/AppSync/issues/108) regarding the data directory when installed with AppSync.
 
-You can follow the `Sideloading (TrollStore)` or `Sideloading (Unjailbroken)` steps to sideload on a jailbroken iDevice. Regardless of the method, you will benefit from automatic JIT enabling and more memory allocation.
+You can follow the `Sideloading (TrollStore)` or `Sideloading (Jailed)` steps to sideload on a jailbroken iDevice. Regardless of the method, you will benefit from automatic JIT enabling and more memory allocation.
 :::
 
 ::: details GitHub Actions
