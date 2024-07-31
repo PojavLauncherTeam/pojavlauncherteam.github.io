@@ -11,7 +11,7 @@
 ### Recommended requirements:
 - Qualcomm Snapdragon 820 (or equivalent) with Vulkan API support
 - Android 8.0 and newer
-- 4GB RAM
+- 4GB RAM or higher (the more the merrier)
 
 ### ChromeOS
 - Chromebooks have very similar system requirements, however Android version does not matter, as long as you can install Android apps.
@@ -27,4 +27,4 @@
 ### Recommended requirements:
 - Apple A14/A12X Bionic SoC
 - iOS 14
-- 4GB RAM
+- 4GB RAM or higher

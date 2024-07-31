@@ -1,14 +1,14 @@
 # System support in future versions of PojavLauncher iOS
 *This announcement will be covering the next 3 releases of PojavLauncher iOS.*
 
-We've made some great strides with the iOS port of PojavLauncher: fixing [1.17 and newer](./OGL32.md), bringing [OpenJDK 8 to iOS](./JDK8.md), and now unveiling an [unjailbroken variant](./UNJAIL.md). However, all of the advancements we're making also stirred up old conversations, and we've come to a final conclusion: 
+We've made some great strides with the iOS port of PojavLauncher: fixing [1.17 and newer](./OGL32.md), bringing [OpenJDK 8 to iOS](./JDK8.md), and now unveiling an [jailed variant](./UNJAIL.md). However, all of the advancements we're making also stirred up old conversations, and we've come to a final conclusion: 
 
 **A future release of PojavLauncher will require iOS 14.0 and later.**
 
 ## But why?
 Supporting iOS 12.0 and newer was a feat of engineering. However, it created multiple issues with feature support and user experience. We need to verify that our code works on iOS 12 before going ahead and compiling--if it does not, this complicates our development as we are faced with two options: dropping the feature on older versions, or importing external libraries. This causes slower development times, or lack of the feature entirely for our users.
 
-We also took a look at the userbase currently playing on PojavLauncher. Most of the users asking for support in our Discord server (which is many times more active than the Issues tab on the GitHub repository) are already running iOS 14.0 or newer, and a few cases of users on iOS 13. We barely see users running iOS 12 anymore, and now that PojavLauncher works unjailbroken, users can update to a newer release of iOS while still retaining Java Edition.
+We also observed the userbase currently playing on PojavLauncher. Most of the users asking for support in our Discord server (which is many times more active than the Issues tab on the GitHub repository) are already running iOS 14.0 or newer, and a few cases of users on iOS 13. We barely see users running iOS 12 anymore, and now that PojavLauncher works jailed, users can update to a newer release of iOS while still retaining Java Edition.
 
 This decision also comes after we understood that we don't really have the ability to test on these older versions anymore. Our devices are already running iOS 14.0+, and so are most of our testers.
 
