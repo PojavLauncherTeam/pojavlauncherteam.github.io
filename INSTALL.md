@@ -70,7 +70,7 @@ Note: **Enable URL Schemes in TrollStore settings.**
 
 1. Follow these steps to install [TrollStore](https://github.com/opa334/TrollStore).
  
-2. Download the latest release from [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa).
+2. Download the latest release from [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa).
     - For a specific release, you can find its package on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
 3. Locate where the .ipa was downloaded, tap the Share icon, and choose TrollStore in the list of options available.
