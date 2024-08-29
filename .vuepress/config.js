@@ -133,6 +133,7 @@ module.exports = {
 						'OPTIMIZATION', // Optimizing the game
 						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
+						'PROBLEMATIC-MODS-COMMON-FIXES', // List of available fixes for popular modpacks
 						'ENV-VARS', // Using environment variables
 						'JAVA-ARGS', // Adding custom Java arguments
 					]
