@@ -41,7 +41,7 @@
 
 9. Now we have to patch a Cursed Fabric .jar that's located in "***/.minecraft/libraries/com/github/minecraft-cursed-legacy/cursed-fabric-loader/btw-version-name/cursed-fabric-loader-btw-version-name.jar***".
 
-	Download this file: [AppletMain](https://www.mediafire.com/file/1fszcz85201dlmz/AppletMain.class/file) not running into your downloads folder, then grab the patched AppletMain file from here and copy it into this location: "***/net/fabricmc/loader/entrypoint/applet/AppletMain.class***" (inside of the unpatched .jar file using RAR).
+	Download this file: [AppletMain](https://github.com/ItAnthon/AppletMain-Patch) not running into your downloads folder, then grab the patched AppletMain file from here and copy it into this location: "***/net/fabricmc/loader/entrypoint/applet/AppletMain.class***" (inside of the unpatched .jar file using RAR).
 
 10. Grab the patched .jar file and replace the old one inside of "***/.minecraft/libraries/com/github/minecraft-cursed-legacy/cursed-fabric-loader/btw-version-name/cursed-fabric-loader-btw-version-name.jar***". Please be sure that it has the same name as the original .jar file.
 
