@@ -152,7 +152,6 @@ module.exports = {
 				'DEVICES', // Supported Devices
 				'MCVERS', // Supported Minecraft Versions
 				'MODS-UNSUPPORTED', // Unsupported Mods
-				'ROADMAP', // The road ahead for PojavLauncher
             ]
 
         },
