@@ -32,7 +32,7 @@
 
 To start editing your controlmap in iOS, head to top-left and press the sidebar. (shown in image)
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3219.png" width=45% height=45%>
+<img src="https://cdn.discordapp.com/attachments/1266006849069645915/1268151500673122334/IMG_3219.png?ex=66f2929e&is=66f1411e&hm=614ea8bd3060f91e30ee507867fabf7be3770076b19a0e24af1444e4612b0907&" width=45% height=45%>
 
 Press the custom controls button.
 
@@ -40,11 +40,11 @@ Press the custom controls button.
 
 After that, long press anywhere for more options.
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3221.png" width=75% height=75%>
+<img src="https://cdn.discordapp.com/attachments/1266006849069645915/1268175937132957757/IMG_3221.png?ex=66f2a960&is=66f157e0&hm=6bbc741905c760b5e69ed970206e5a4668206ead5bb19bc58afe7b848d785cdc&c7fa476004c451c724e1f5288ba5cdbb4f1283c59e2078a36b368a1c08&" width=75% height=75%>
 
 Now you will get a pop-up with the following options:
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3222.png" width=75% height=75%>
+<img src="https://cdn.discordapp.com/attachments/1266006849069645915/1268175933093843075/IMG_3222.png?ex=66f2a960&is=66f157e0&hm=4d4bcac7fa476004c451c724e1f5288ba5cdbb4f1283c59e2078a36b368a1c08&" width=75% height=75%>
 
 1- Exits the controlmap editor.
 
