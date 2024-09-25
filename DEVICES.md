@@ -8,7 +8,7 @@
 ## Android
 
 ### Minimum requirements:
-- Qualcomm Snapdragon 820 (or equivalent)
+- Qualcomm Snapdragon 460 (or equivalent)
 - Android 5.0
 - 1GB RAM
 
