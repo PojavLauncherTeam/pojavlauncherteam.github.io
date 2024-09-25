@@ -6,7 +6,7 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 - Supports OpenGL 2.1 and has shader converting capabilities, thus makes up for about 1/8 of the OpenGL 3.x standard.
 - Works on all versions of vanilla Minecraft.
 ### A screenshot of Holy GL4ES running Minecraft 1.21.1
-![holygl4es](https://cdn.discordapp.com/attachments/729671788187091024/1287348906983952497/2024-09-22_12.32.23.png?ex=66f28a19&is=66f13899&hm=63c6388b26f3cc1d4fbe67d74216de09ccb5a0ad0b27d0a18004dc9d67ad81c7&)
+![holygl4es](https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/2024-09-22_12.32.23.png)
 ## ANGLE
 - Slower than Holy GL4ES(*), runs on Vulkan. Should be used only in specific cases, where a server resource pack or a mod fails to run due to missing OpenGL extensions.
 - Supports OpenGL 3.2 only.
@@ -14,12 +14,14 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 > On iOS devices, ANGLE can provide faster performance than Holy GL4ES.
 
 ### A screenshot of ANGLE running Minecraft 1.21.1
-![angle](https://cdn.discordapp.com/attachments/729671788187091024/1287348906191093811/Screenshot_20240922_124430_PojavLauncher_Minecraft_Java_Edition_for_Android.jpg?ex=66f28a19&is=66f13899&hm=88e553848a800ce70b019fded18cbdfbe62b64fcdc1201c491966e74011b3938&)
-
+![angle](https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/Screenshot_20240922_124430_PojavLauncher%20(Minecraft%20Java%20Edition%20for%20Android).jpg)
 ## Zink
-- Slow. It's only useful for mods that don't run due to missing OpenGL extensions and for running shaders.
-- Supports OpenGL 4.5 on Adreno GPUs with Turnip, and OpenGL 3.3 on Mali GPUs. Adreno GPUs without Turnip **will** experience significant bugs or crashes when using Zink.
+- Mid. It's only useful for mods that don't run due to missing OpenGL extensions and for running shaders.
+- Supports OpenGL 4.5 on Adreno GPUs with Turnip, and OpenGL 3.1/3.2(*) on Mali GPUs. Adreno GPUs without Turnip
+**will** face crashes when using Zink.
 - Works on all vanilla versions of Minecraft.
 
+> (*) Most Mali GPUs can only run OpenGL 3.1
+
 ### A screenshot of Zink running Minecraft 1.21.1
-![Zink](https://cdn.discordapp.com/attachments/729671788187091024/1287348906606461000/2024-09-22_12.38.14.png?ex=66f28a19&is=66f13899&hm=9f1dc738d286463d1d2fcf7e9b055c06da027353ace6ddad043c22667b2d8f1f&)
+![Zink](https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/2024-09-22_12.38.14.png)
