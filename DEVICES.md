@@ -27,7 +27,7 @@
    - The Apple A7 SoC is losing support in PojavLauncher 2.3.
 - iOS 14/iPadOS 14 or higher
    - iOS/iPadOS 12 & 13 is losing support in PojavLauncher 2.3.
-- 1GB RAM
+- 2GB RAM
 
 ### Recommended requirements:
 - Apple A14/A12X Bionic SoC
