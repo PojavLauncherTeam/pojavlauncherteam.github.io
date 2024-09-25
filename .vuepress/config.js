@@ -113,13 +113,13 @@ module.exports = {
 							children: [
 								'PARSINGERROR', // "Error while parsing the package" error fix.
 								'REFUSALOFINSTALL', // "App not installed" error fix. (very uncommon)
-								'CANTFINDLOG.md', // Can't find the log file. (non-root)
-								'CANTFINDMINECRAFT.md', // Can't find .minecraft (non-root)
-								'ZINKNOTWORKING.md', // Zink doesn't work.
-								'MODCRASHING.md', // Installing any mod results in a crash.
-								'MODNOTSHOWINGUP.md', // My mods don't show up in-game.
-								'JAVARUNTIMES.md', // Installing Java runtimes manually.
-								'JARCRASHED.md', // Crash when executing a jar.
+								'CANTFINDLOG', // Can't find the log file. (non-root)
+								'CANTFINDMINECRAFT', // Can't find .minecraft (non-root)
+								'ZINKNOTWORKING', // Zink doesn't work.
+								'MODCRASHING', // Installing any mod results in a crash.
+								'MODNOTSHOWINGUP', // My mods don't show up in-game.
+								'JAVARUNTIMES', // Installing Java runtimes manually.
+								'JARCRASHED', // Crash when executing a jar.
 								'32BIT', // Platform and performance limitations. (32bit)
 								'NOTCHFIX', // Pojav's notch-detection system on crap chinese spinoff phones.
 								'FFMPEG', // Setting up FFMPEG, for Replay Mod.
@@ -129,11 +129,11 @@ module.exports = {
 							]
 						},
 						// FAQ that applies to both platforms goes here
-							'RPWORLDNOTSHOWINGUP.md', // Resource pack or world doesn't show up.
-							'CRASHES.md', // Random crashes during gameplay.
-							'MODCONFLICT.md', // I have a mod conflict.
-							'JAVAVERSION.md', // Which Java version to use?
-							'CANTLOGIN.md', // Can't log in.
+							'RPWORLDNOTSHOWINGUP', // Resource pack or world doesn't show up.
+							'CRASHES', // Random crashes during gameplay.
+							'MODCONFLICT', // I have a mod conflict.
+							'JAVAVERSION', // Which Java version to use?
+							'CANTLOGIN', // Can't log in.
 					]
 		
 				},
