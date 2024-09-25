@@ -32,19 +32,19 @@
 
 To start editing your controlmap in iOS, head to top-left and press the sidebar. (shown in image)
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3219.png" width=45% height=45%>
+<img src="https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/IMG_3219.png" width=45% height=45%>
 
 Press the custom controls button.
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/7d01c01011b0e135aac34849846a8fd48893ecbf/images/Actions/ios/IMG_3220.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/IMG_3220-1.png" width=45% height=45%>
 
 After that, long press anywhere for more options.
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3221.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/IMG_3221.png" width=75% height=75%>
 
 Now you will get a pop-up with the following options:
 
-<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/IMG_3222.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/IMG_3222.png" width=75% height=75%>
 
 1- Exits the controlmap editor.
 

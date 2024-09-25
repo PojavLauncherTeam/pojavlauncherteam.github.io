@@ -21,23 +21,42 @@ If you sideload normally, you will need to enable JIT in some way. The most comm
 
 The only downside to this method is that you are required to be connected to a WiFi network in order to enable JIT. (*)
 
-(*) - Enabling JIT on iOS 17.x & iOS 18 betas (at the moment) can only be enabled through AltJIT (macOS only) or SideJITServer, which requires a computer (Windows, MacOS and Linux only). This is because these methods utilize pymobiledevice3 to enable JIT due to changes in iOS. 
+(*) - Enabling JIT on iOS 17.0.1+ & iOS 18 betas (at the moment) can only be enabled through AltJIT (macOS only) or SideJITServer, which requires a computer (Windows, MacOS and Linux only). This is because these methods utilize pymobiledevice3 to enable JIT due to changes in iOS. 
 
-Methods to enable JIT:
-- [AltStore AltJIT](https://faq.altstore.io/how-to-use-altstore/altjit) (*)
+## What are the methods to enable JIT?
 
-- [Jitterbug](https://github.com/osy/Jitterbug/tree/main/Jitterbug) (^)
-
-- [SideStore SideJIT](https://docs.sidestore.io/docs/faq/#:~:text=Can%20I%20activate,selecting%20'Enable%20JIT') (^)
-
-- [SideStore Anisette](https://docs.sidestore.io/docs/intro) (^)
-
-- [SideJITServer](https://github.com/nythepegasus/SideJITServer) (!)
-
-(*) - AltJIT for iOS 17.x & iOS 18 betas only works on macOS. Requires pymobiledevice3.
-
-(^) - Does not work for iOS 17.x & iOS 18 betas, as enabling JIT will be done with pymobiledevice3.
-
-(!) - Does not work for iOS 16.x or below, use the other methods listed above to enable JIT. This method is meant for iOS 17.x & iOS 18 betas.
+The methods to enable JIT can be found [here](https://github.com/ItAnthon/JIT-on-iOS).
 
 Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
+
+## So how do I enable JIT?
+
+- [TrollStore Lite](https://havoc.app/package/trollstorelite) (!)
+
+- [TrollStore](https://ios.cfw.guide/installing-trollstore) (@)
+
+- [AltStore AltJIT](https://faq.altstore.io/how-to-use-altstore/altjit) (#)
+
+- [Jitterbug](https://github.com/osy/Jitterbug/tree/main/Jitterbug) ($)
+
+- [SideStore](https://docs.sidestore.io/docs/faq#can-i-activate-jit) ($)
+
+- [SideJITServer](https://github.com/nythepegasus/SideJITServer) (%)
+
+(!) - Limited to Jailbroken devices only. (JIT is granted by the Jailbreak itself)
+
+(@) - Limited to devices with the CoreTrust bug. (iOS 14.0 - iOS 16.6.1 & iOS 17.0)
+
+(#) - AltJIT for iOS 17.x & iOS 18 betas only works on macOS. Requires pymobiledevice3.
+
+($) - Does not work for iOS 17.x & iOS 18 betas, as enabling JIT will be done with pymobiledevice3.
+
+(%) - Does not work for iOS 16.x or below, use the other methods listed above to enable JIT. This method is meant for iOS 17.x & iOS 18 betas.
+
+## Methods coming Soon:
+
+- JITStreamer 2.0 (^)
+
+- UTM SE (^)
+
+(^) - iOS 17.4+ Only

@@ -111,17 +111,29 @@ module.exports = {
 							collapsable: true, // Don't allow collapsing
 							sidebarDepth: 1,
 							children: [
-								'PARSINGERROR', // "Error while parsing the package" error fix
-								'REFUSALOFINSTALL', // "App not installed" error fix (very uncommon)
-								'32BIT', // Platform and performance limitations (32bit)
-								'NOTCHFIX', // Pojav's notch-detection system on crap chinese spinoff phones
-								'FFMPEG', // Setting up FFMPEG, for Replay Mod
-								'ZINK', // What's Zink, and why it's not what you think
+								'PARSINGERROR', // "Error while parsing the package" error fix.
+								'REFUSALOFINSTALL', // "App not installed" error fix. (very uncommon)
+								'CANTFINDLOG', // Can't find the log file. (non-root)
+								'CANTFINDMINECRAFT', // Can't find .minecraft (non-root)
+								'ZINKNOTWORKING', // Zink doesn't work.
+								'MODCRASHING', // Installing any mod results in a crash.
+								'MODNOTSHOWINGUP', // My mods don't show up in-game.
+								'JAVARUNTIMES', // Installing Java runtimes manually.
+								'JARCRASHED', // Crash when executing a jar.
+								'32BIT', // Platform and performance limitations. (32bit)
+								'NOTCHFIX', // Pojav's notch-detection system on crap chinese spinoff phones.
+								'FFMPEG', // Setting up FFMPEG, for Replay Mod.
+								'ZINK', // What's Zink, and why it's not what you think.
 								'SHADERS', // Look what we got here.
 								'RENDERERS', // I have no idea what they do and why PojavLauncher needs it.
 							]
 						},
 						// FAQ that applies to both platforms goes here
+							'RPWORLDNOTSHOWINGUP', // Resource pack or world doesn't show up.
+							'CRASHES', // Random crashes during gameplay.
+							'MODCONFLICT', // I have a mod conflict.
+							'JAVAVERSION', // Which Java version to use?
+							'CANTLOGIN', // Can't log in.
 					]
 		
 				},
@@ -133,6 +145,7 @@ module.exports = {
 						'OPTIMIZATION', // Optimizing the game
 						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
+						'PROBLEMATIC-MODS-COMMON-FIXES', // List of available fixes for popular modpacks
 						'ENV-VARS', // Using environment variables
 						'JAVA-ARGS', // Adding custom Java arguments
 					]
@@ -151,7 +164,6 @@ module.exports = {
 				'DEVICES', // Supported Devices
 				'MCVERS', // Supported Minecraft Versions
 				'MODS-UNSUPPORTED', // Unsupported Mods
-				'ROADMAP', // The road ahead for PojavLauncher
             ]
 
         },
