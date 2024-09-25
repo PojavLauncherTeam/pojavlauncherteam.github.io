@@ -23,7 +23,7 @@
 ## iOS
 
 ### Minimum requirements:
-- Apple A8 SoC
+- Apple A8/A8X SoC
    - The Apple A7 SoC is losing support in PojavLauncher 2.3.
 - iOS 14/iPadOS 14 or higher
    - iOS/iPadOS 12 & 13 is losing support in PojavLauncher 2.3
