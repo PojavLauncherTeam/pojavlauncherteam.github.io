@@ -121,9 +121,7 @@ module.exports = {
 								'JAVARUNTIMES', // Installing Java runtimes manually.
 								'JARCRASHED', // Crash when executing a jar.
 								'32BIT', // Platform and performance limitations. (32bit)
-								'NOTCHFIX', // Pojav's notch-detection system on crap chinese spinoff phones.
 								'FFMPEG', // Setting up FFMPEG, for Replay Mod.
-								'ZINK', // What's Zink, and why it's not what you think.
 								'SHADERS', // Look what we got here.
 								'RENDERERS', // I have no idea what they do and why PojavLauncher needs it.
 							]
