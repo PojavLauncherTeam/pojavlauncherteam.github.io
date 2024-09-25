@@ -9,6 +9,8 @@ Thanks to the hard work from PojavLauncherTeam, both the Android and the iOS por
 ## Android
 Current issues, as of the Foxglove update:
 
+- 3d shareware build is broken with gl4es due to shader compilation errors.
+
 ## iOS
 Current issues, as of the v2.2 Deepslate update:
 
