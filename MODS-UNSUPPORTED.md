@@ -42,7 +42,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 ## Other Mods
 - [Legacy4J](https://modrinth.com/mod/legacy4j)
 	- Set `selectedControllerHandler` in options.txt to 0
-- Create [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/create) [**(Fabric)**]
+- Create [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/create) [**(Fabric)**](https://modrinth.com/mod/create-fabric)
 	- On gl4es disable flywheel by running "/flywheel backend off" in game (Only works on phones with an adrenos GPUs)
 	- Or use angle/zink renderer.
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
