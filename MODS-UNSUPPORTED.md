@@ -21,6 +21,9 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- **Oppo A53** (Snapdragon 460)
 
 ## Skyblock Mods
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+	- Use angle/zink renderer.
+- [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz)
 - [Essential](https://essential.gg/)
 - [Skytils](https://github.com/Skytils/SkytilsMod) 
 	- [1.3.0-pre5](https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar) works
@@ -39,8 +42,9 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 ## Other Mods
 - [Legacy4J](https://modrinth.com/mod/legacy4j)
 	- Set `selectedControllerHandler` in options.txt to 0
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-	- Disable Flywheel.
+- Create [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/create) [**(Fabric)**]
+	- On gl4es disable flywheel by running "/flywheel backend off" in game (Only works on phones with an adrenos GPUs)
+	- Or use angle/zink renderer.
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 - [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
 - [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable) 
