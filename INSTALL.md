@@ -55,18 +55,16 @@ Note: **Enable URL Schemes in TrollStore settings.**
   
     - 14.0 to 16.6.1
     - 17.0 
-	- 16.7 to 16.7.8 (*)
- 	- 17.0.1 to 17.5.1 (*)
-  	- 18 b1 to 18 b4 (*)
+	- 16.7 to 16.7.10 (*)
+ 	- 17.0.1 to 17.7 (*)
+  	- 18.0 (*)
 
  (*) - requires the palera1n jailbreak
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
     - 14.0 to 16.6.1
-    - 17.0 (*)
-
-	(*) - No installation method at the moment.
+    - 17.0
 
 1. Follow these steps to install [TrollStore](https://github.com/opa334/TrollStore).
  
