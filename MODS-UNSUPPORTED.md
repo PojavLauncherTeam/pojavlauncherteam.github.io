@@ -23,9 +23,6 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- [install this mod](https://www.mediafire.com/file/t9ipmw6af750efi/UNZIP-ME_DH-2.0_android-patch_fabric-forge_1.16.5-1.21.zip/file)
 
 ## Skyblock Mods
-- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-	- Use angle/zink renderer.
-- [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz)
 - [Essential](https://essential.gg/)
 - [Skytils](https://github.com/Skytils/SkytilsMod) 
 	- [1.3.0-pre5](https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar) works
