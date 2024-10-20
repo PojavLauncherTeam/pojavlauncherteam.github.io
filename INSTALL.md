@@ -55,18 +55,16 @@ Note: **Enable URL Schemes in TrollStore settings.**
   
     - 14.0 to 16.6.1
     - 17.0 
-	- 16.7 to 16.7.8 (*)
- 	- 17.0.1 to 17.5.1 (*)
-  	- 18 b1 to 18 b4 (*)
+	- 16.7 to 16.7.10 (*)
+ 	- 17.0.1 to 17.7 (*)
+  	- 18.0 (*)
 
  (*) - requires the palera1n jailbreak
   
    #### For arm64e, TrollStore is compatible with the following iOS versions:
   
     - 14.0 to 16.6.1
-    - 17.0 (*)
-
-	(*) - No installation method at the moment.
+    - 17.0
 
 1. Follow these steps to install [TrollStore](https://github.com/opa334/TrollStore).
  
@@ -81,7 +79,7 @@ You can now enjoy Minecraft: Java Edition on your iDevice!
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
-PojavLauncher supports being sideloaded with AltStore, Sideloadly, and Xcode. Instructions to use AltStore are below--for other options, refer to their documentation.
+PojavLauncher supports being sideloaded with AltStore and SideStore. Instructions to use AltStore are below--for other options, refer to their documentation.
 
 1. Follow the official guide on installing AltStore itself:
     - Instructions for [Mac](https://faq.altstore.io/getting-started/how-to-install-altstore-macos) and [Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
@@ -89,7 +87,7 @@ PojavLauncher supports being sideloaded with AltStore, Sideloadly, and Xcode. In
 2. Install the latest release using this [Install with AltStore](altstore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa) button.
     - For a specific release, you can find its button on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
-Installing PojavLauncher is not the end for iOS devices. In order to play Minecraft itself, you will need to [enable JIT](./JIT.md).
+Installing PojavLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](./JIT.md).
 :::
 
 ::: details Sideloading (Jailbroken)
