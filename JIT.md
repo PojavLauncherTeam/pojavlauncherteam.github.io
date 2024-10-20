@@ -21,7 +21,7 @@ If you sideload normally, you will need to enable JIT in some way. The most comm
 
 The only downside to this method is that you are required to be connected to a WiFi network in order to enable JIT. (*)
 
-(*) - Enabling JIT on iOS 17.0.1+ & iOS 18 betas (at the moment) can only be enabled through AltJIT (macOS only) or SideJITServer, which requires a computer (Windows, MacOS and Linux only). This is because these methods utilize pymobiledevice3 to enable JIT due to changes in iOS. 
+(*) - Enabling JIT on iOS 17.0.1+ & iOS 18 betas (at the moment) can only be enabled through different various methods listed below that utilize pymobiledevice3 to enable JIT due to changes in iOS. 
 
 ## What are the methods to enable JIT?
 
