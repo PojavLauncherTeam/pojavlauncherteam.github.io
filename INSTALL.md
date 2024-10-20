@@ -79,7 +79,7 @@ You can now enjoy Minecraft: Java Edition on your iDevice!
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
-PojavLauncher supports being sideloaded with AltStore, Sideloadly, and Xcode. Instructions to use AltStore are below--for other options, refer to their documentation.
+PojavLauncher supports being sideloaded with AltStore and SideStore. Instructions to use AltStore are below--for other options, refer to their documentation.
 
 1. Follow the official guide on installing AltStore itself:
     - Instructions for [Mac](https://faq.altstore.io/getting-started/how-to-install-altstore-macos) and [Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
@@ -87,7 +87,7 @@ PojavLauncher supports being sideloaded with AltStore, Sideloadly, and Xcode. In
 2. Install the latest release using this [Install with AltStore](altstore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa) button.
     - For a specific release, you can find its button on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
-Installing PojavLauncher is not the end for iOS devices. In order to play Minecraft itself, you will need to [enable JIT](./JIT.md).
+Installing PojavLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](./JIT.md).
 :::
 
 ::: details Sideloading (Jailbroken)
