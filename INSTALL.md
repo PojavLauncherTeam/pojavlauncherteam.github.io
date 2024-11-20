@@ -79,7 +79,7 @@ You can now enjoy Minecraft: Java Edition on your iDevice!
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
-PojavLauncher supports being sideloaded with AltStore and SideStore. Instructions to use AltStore are below--for other options, refer to their documentation.
+PojavLauncher supports being sideloaded with [AltStore](https://altstore.io/#Downloads) and [SideStore](https://sidestore.io/#get-started). Instructions to use AltStore are below--for other options, refer to their documentation.
 
 1. Follow the official guide on installing AltStore itself:
     - Instructions for [Mac](https://faq.altstore.io/getting-started/how-to-install-altstore-macos) and [Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
