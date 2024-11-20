@@ -8,6 +8,7 @@ We are hard at work to make new features and fix bugs
 - SwiftUI rewrite
 - Fixed a crash related to background apps
 - and many, many more
+
 **This is a nightly(development) build. Expect bugs and instability**
 Download the IPA [here](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip)
 
