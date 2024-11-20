@@ -2,7 +2,7 @@
 # Follow [this](https://pojavlauncherteam.github.io/JIT.html) guide to enable JIT
 
 ## 3.0 Nightly
-We are hard at work to make new features and fixing bugs
+We are hard at work to make new features and fix bugs
 - 1.17+ support
 - Java 21 support
 - SwiftUI rewrite
