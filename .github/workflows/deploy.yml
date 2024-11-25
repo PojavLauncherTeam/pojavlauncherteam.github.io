@@ -1,0 +1,34 @@
+name: Build and Deploy
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+          persist-credentials: false
+          submodules: 'recursive'
+      - name: Build
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '12'
+        run: npm install && npm run build
+  deploy:
+    environment:
+      name: Deploy
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
