@@ -1,5 +1,5 @@
 # Problematic mods and common fixes
-# RLCraft
+## RLCraft
 
 ### In order to run RLCraft you have to remove these mods:
 
@@ -13,11 +13,11 @@
 
 **credits to [kasrarouhi](https://github.com/kasrarouhi)**
 
-# Better Than Wolves (BTW)
+## Better Than Wolves (BTW)
 
-## Android
+### Android
 
-### WARNING: This is the short version of the guide. It is recommended to use the [full version.](https://www.mediafire.com/file/3ex8b12pvwb2g9m/INSTALL_BTW_updated_v1.2.pdf/file)
+#### WARNING: This is the short version of the guide. It is recommended to use the [full version.](https://www.mediafire.com/file/3ex8b12pvwb2g9m/INSTALL_BTW_updated_v1.2.pdf/file)
 
 1. Download Acode Editor, ZArchiver and RAR from the Google Play Store if you haven’t already. 
 
@@ -51,13 +51,25 @@
 **credits to [GaucovyAero](https://github.com/gaucovyaero/) and [ItAnthon](https://github.com/ItAnthon)**
    
 
-# Valkyrien Skies 2
-## Android
+## Valkyrien Skies 2
+### Android
 
 As of 2024/09/09, there is no way to run VS2 on Android in Singleplayer, so your only option is to join a VS2 server. You can host a server capable of running VS2 on Android inside Termux, but it's not very easy to setup. 
 
 There's a script created by [sa1672ndo](https://github.com/sa1672ndo) that automates this entire process to make the installation easier.
 
 The script can be found [here](https://github.com/sa1672ndo/vs2termux).
+
+**credits to [sa1672ndo](https://github.com/sa1672ndo)**
+
+## Distant Horizons
+### Android 
+
+#### 2.0+
+
+Add this [mod](https://www.mediafire.com/file/t9ipmw6af750efi/UNZIP-ME_DH-2.0_android-patch_fabric-forge_1.16.5-1.21.zip/file)
+
+#### <2.0
+All versions below 2.0 do not have any known issues
 
 **credits to [sa1672ndo](https://github.com/sa1672ndo)**
