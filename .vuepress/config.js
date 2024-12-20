@@ -127,7 +127,7 @@ module.exports = {
 							]
 						},
 						// FAQ that applies to both platforms goes here
-							'RPWORLDNOTSHOWINGUP', // Resource pack or world doesn't show up.
+							'INSTALLATIONOFMODSRPWORLDS', // Installation of mods, resource packs, worlds in their correct form.
 							'CRASHES', // Random crashes during gameplay.
 							'MODCONFLICT', // I have a mod conflict.
 							'JAVAVERSION', // Which Java version to use?
