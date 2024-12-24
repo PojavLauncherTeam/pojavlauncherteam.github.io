@@ -1,3 +1,5 @@
+# this is now old and poo -tomikun
+
 # PojavLauncher Wiki Images
 This directory is pretty self explanatory; it contains images used for the Wiki
 

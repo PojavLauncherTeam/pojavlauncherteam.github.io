@@ -1,0 +1,8 @@
+const { NavItem } = 'vuepress/config'
+const { Getting_Started_Array } = './arrays.js'
+export const NavBar = [
+	{
+		title: 'Getting Started',
+		items: Getting_Started_Array
+	},
+]
