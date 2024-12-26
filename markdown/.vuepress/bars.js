@@ -23,27 +23,13 @@ module.exports = { SideBar, NavBar };
 // WARNING: Everything below is just function definitions.
 // Do not touch if you don't understand.
 
-
-// Rant:
-// I wrote this all originally with import/export syntax.
-// I had ChatGPT turn it into module.export()/require() syntax by CommonJS
-// Fuck you CommonJS
-// arrays.js is allowed to use ES Module syntax because idfk
-// Probably something with vuepress v1 implementation of config.js
-// The documentation doesn't match behaviour
-
-// Takes the title of the collapsable sidebar object
-// and corresponding object that contains path and children
 function generateSideBar(arrays) {
   // Recursively process the children array to handle nested objects
   const processChildren = (children, parentPath) => {
     return children.map(child => {
-      // If it's a string, return the path with the currentPath prepended
-      if (typeof child === 'string') {
-        return parentPath + child;  // Prepend current path to string
-      } else {
-        // If it's an object, recursively process it with updated path
-        return {
+      if (typeof child === 'string') { return parentPath + child; } // Affix parenthPath to children if string
+      else { // If its not a string, assume it is a nested object and process like parent.
+		return {
           title: child.title,
           collapsable: child.collapsable !== undefined ? child.collapsable : true,  // Default to true
           sidebarDepth: child.sidebarDepth || 2,  // Default to 2 if not defined
