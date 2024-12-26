@@ -1,32 +1,25 @@
-name: Build/Test/Deploy
+name: Build
 on:
-  push:
-    branches-ignore:
-      - gh-pages
   workflow_dispatch:
   pull_request:
 jobs:
   build:
-    name: Build and Deploy
+    name: Build and Upload
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v2-beta
-        with:
-          node-version: '12'
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
           fetch-depth: '0'
           persist-credentials: false
           submodules: 'recursive'
-      - name: Install
-        run: npm install
-      - name: Build
-        run: npm run build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.5
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
+      - name: Setup Node
+        uses: actions/setup-node@v2-beta
         with:
-          BRANCH: gh-pages
-          FOLDER: docs
-          CLEAN: true
+          node-version: '22'
+      - name: Build
+        run: npm install && npm run build
+      - name: Upload Build
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs

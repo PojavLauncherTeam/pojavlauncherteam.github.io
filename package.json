@@ -4,7 +4,7 @@
   "description": "pojavlauncherteam.github.io",
   "scripts": {
     "start": "vuepress dev markdown",
-    "build": "vuepress build"
+    "build": "vuepress build markdown"
   },
   "repository": "https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io",
   "keywords": [
