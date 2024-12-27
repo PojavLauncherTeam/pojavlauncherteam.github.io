@@ -2,13 +2,11 @@ const Arrays = require('./arrays.js');
 const NavBar = require('./arrays.js').NavBar;
 const { CategoryOrder } = Arrays;
 
-
-
 // Disgusting spam but readable
 const WikiSideBar = (CategoryOrder[0]).map(category => generateSideBar(Arrays[category])); // Uses CategoryOrder to generate wiki sidebar
-const ContributeSideBar = (require('./arrays.js').Contribute); // Just use page headers for sidebar
-const AboutSideBar = (require('./arrays.js').About);
-const PatchSideBar = (require('./arrays.js').Patch_Notes);
+const ContributeSideBar = (require('./arrays.js').contribute); // Just use page headers for sidebar
+const AboutSideBar = (require('./arrays.js').about);
+const PatchSideBar = (require('./arrays.js').patchnotes);
 
 const SideBar = {
 	'/wiki/': WikiSideBar,
