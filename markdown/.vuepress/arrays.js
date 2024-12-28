@@ -1,104 +1,106 @@
+// Sidebar Arrays
 const android_FAQ = {
-	title: 'Android-specific', // Subcategory for Android FAQ
-	collapsable: true, // Don't allow collapsing
-	sidebarDepth: 1,
-	path: 'android',
+	title: 'Android-specific', // Subgroup for Android FAQ
+	collapsable: true, 	sidebarDepth: 1,
+	path: 'android', // Do not add a trailing slash here unless this also has a child nested in it with its own path
 	children: [
-		'PARSINGERROR', // "Error while parsing the package" error fix.
-		'REFUSALOFINSTALL', // "App not installed" error fix. (very uncommon)
-		'CANTFINDLOG', // Can't find the log file. (non-root)
-		'CANTFINDMINECRAFT', // Can't find .minecraft (non-root)
-		'ZINKNOTWORKING', // Zink doesn't work.
-		'MODCRASHING', // Installing any mod results in a crash.
-		'MODNOTSHOWINGUP', // My mods don't show up in-game.
-		'JAVARUNTIMES', // Installing Java runtimes manually.
-		'JARCRASHED', // Crash when executing a jar.
-		'32BIT', // Platform and performance limitations. (32bit)
-		'FFMPEG', // Setting up FFMPEG, for Replay Mod.
-		'SHADERS', // Look what we got here.
-		'RENDERERS', // I have no idea what they do and why PojavLauncher needs it.
+		'PARSINGERROR',
+		'REFUSALOFINSTALL',
+		'CANTFINDLOG',
+		'CANTFINDMINECRAFT',
+		'ZINKNOTWORKING',
+		'MODCRASHING',
+		'MODNOTSHOWINGUP',
+		'JAVARUNTIMES',
+		'JARCRASHED',
+		'32BIT',
+		'FFMPEG',
+		'SHADERS',
+		'RENDERERS',
 	]
 }
 
 const ios_FAQ = {
-	title: 'iOS-specific', // Subcategory for iOS FAQ
-	collapsable: true, // Don't allow collapsing
+	title: 'iOS-specific', // Subgroup for iOS FAQ
+	collapsable: true,
 	sidebarDepth: 1,
 	path: 'ios', // Do not add a trailing slash here unless this also has a child nested in it with its own path
 	children: [
-		'JIT', // iOS and "JIT"
-		'APPSTORE', // Will PojavLauncher ever come to App Store for iOS?
+		'JIT',
+		'APPSTORE',
 	]
 }
 
 export const FAQ = {
-	title: 'FAQ',
-	path: '/wiki/faq/', // Trailing slash is required
+	title: 'FAQ', // Group for FAQ
 	collapsable: true,
+	path: '/wiki/faq/', // Trailing slash is required
 	children: [
-		android_FAQ, // Children in the sidebar appears in-order
-		ios_FAQ,
-		// FAQ that applies to both platforms goes here
-		'RPWORLDNOTSHOWINGUP', // Resource pack or world doesn't show up.
-		'CRASHES', // Random crashes during gameplay.
-		'MODCONFLICT', // I have a mod conflict.
-		'JAVAVERSION', // Which Java version to use?
-		'CANTLOGIN', // Can't log in.
+		android_FAQ, // Subgroup for Android-specific FAQ. See Above to configure.
+		ios_FAQ, // Subgroup for iOS-specific FAQ. See Above to configure.
+		// FAQ that applies to both platforms starts here
+		'RPWORLDNOTSHOWINGUP',
+		'CRASHES',
+		'MODCONFLICT',
+		'JAVAVERSION',
+		'CANTLOGIN',
 	]
 }
 
 export const Getting_Started = {
-	title: 'Getting Started', // Name of the collapsable that appears on the sidebar
-	path: '/wiki/getting_started/', // The path where children are located based on the directory where .vuepress is located. Trailing slash is required.
+	title: 'Getting Started',
+	path: '/wiki/getting_started/',
 	collapsable: true,
 	children: [
-	'INSTALL', // Installing PojavLauncher
-	'BUILD-FROM-SOURCE', // Building PojavLauncher from source
-	'SIGN-IN', // Signing in
-	'INSTALL-MC', // Downloading Minecraft
-	'CUSTOM-CONTROLS', // Customizing the on-screen controls
-	'DISCORD', // Official PojavLauncher Discord server
+	'INSTALL',
+	'BUILD-FROM-SOURCE',
+	'SIGN-IN',
+	'INSTALL-MC',
+	'CUSTOM-CONTROLS',
+	'DISCORD',
 	],
 }
 
 export const Going_Further = {
-	title: 'Going Further', // Name of the collapsable that appears on the sidebar
-	path: '/wiki/going_further/', // The path where children are located based on the root directory.
+	title: 'Going Further',
+	path: '/wiki/going_further/',
 	collapsable: true,
 	children: [
-		'OPTIMIZATION', // Optimizing the game
-		'CUSTOM-MC', // Custom Minecraft!
-		'MODPACKS', // Everything you need to know about Modpacks support
-		'PROBLEMATIC-MODS-COMMON-FIXES', // List of available fixes for popular modpacks
-		'ENV-VARS', // Using environment variables
-		'JAVA-ARGS', // Adding custom Java arguments
-
+		'OPTIMIZATION',
+		'CUSTOM-MC',
+		'MODPACKS',
+		'PROBLEMATIC-MODS-COMMON-FIXES',
+		'ENV-VARS',
+		'JAVA-ARGS',
 	]
 
 }
 
-
+// These are used to change the sidebar of their corresponding navbar counterpart. These don't use sidebar groups, instead they use the header as the title of the sidebar group (see Vuepress Documentation for more information on this behaviour). These sections are simple enough to not need custom shenanigans.
 
 export const contribute = [
-	'CONT-WEBSITE', // Contributing to this website
-	'CONT-TRANSLATIONS', // Contributing to PojavLauncher translations, hopefully website translations later on
+	'CONT-WEBSITE',
+	'CONT-TRANSLATIONS',
 ]
 
 export const about = [
-	'LEGAL', // Legal + Security
-	'DEVICES', // Supported Devices
-	'MCVERS', // Supported Minecraft Versions
-	'MODS-UNSUPPORTED', // Unsupported Mods
+	'LEGAL',
+	'DEVICES',
+	'MCVERS',
+	'MODS-UNSUPPORTED',
 ]
 
 export const patchnotes = [
-	'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
-	'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
-	'LOCAL-MODE', // Offline mode is going places
+	'UNJAIL',
+	'IOS-SUPPORT',
+	'LOCAL-MODE',
 ]
 
-export const CategoryOrder = [
-	[	// Wiki
+// Configuration Arrays
+
+export const GroupOrder = [
+	// This defines how groups are ordered within specific paths. So far, only the /wiki/ path uses this as it is the only path with sidebar groups.
+	[	// /wiki/
 		'Getting_Started','Going_Further','FAQ'
 	],
 	[	// Unused
@@ -112,6 +114,7 @@ export const CategoryOrder = [
 	]
 ]
 
+// This is just the regular nav configuration but it's in here instead of config.js because it makes more sense that way.
 export const NavBar = [
 	{ text: 'Wiki', link: '/wiki/' },
 	{ text: 'Contributing', link: '/contribute/CONT-TRANSLATIONS' },
