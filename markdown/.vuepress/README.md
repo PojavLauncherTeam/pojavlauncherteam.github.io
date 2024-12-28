@@ -17,21 +17,13 @@ ___
 
 The intended syntax goes like so if you intend to use `generateSidebar()` as defined in `bars.js`
 
-<pre>title: <span class="pl-s">'string'</span> <span class="pl-c">// This is what actually appears as the group name on the sidebar</span>
-path: <span class="pl-s">'path/to/children/'</span> <span class="pl-c">// The trailing slash is required for all objects containing nested children. Otherwise follows regular Vuepress v1 rules</span>
-collapsable: <span class="pl-s">'true'</span> <span class="pl-c">//  Default is true. Set to false when needed. Not required</span>
-sidebarDepth: <span class="pl-s">'2'</span> <span class="pl-c">// Default and maximum is 2 according to Vuepress Documentation. Not required</span>
-children: <span class="pl-kos">[</span> <span class="pl-s">'child0'</span><span class="pl-kos">,</span> <span class="pl-s">'child1'</span><span class="pl-kos">,</span> <span class="pl-s">'child2'</span> <span class="pl-kos">]</span> <span class="pl-c">// Refer to <a href="https://v1.vuepress.vuejs.org/theme/default-theme-config.html#sidebar">Vuepress Documentation</a> for more details</span></pre>
-
-[//]: # (The original text for this was)
-[//]: # (```javascript
+```javascript
 title: 'string'
 path: 'path/to/children/' // The trailing slash is required for all objects containing nested children
 collapsable: 'true' //  Default is true. Set to false when needed. Not required
 sidebarDepth: '2' // Default and maximum is 2 according to Vuepress Documentation. Not required
-children: [ 'child0', 'child1', 'child2' ] // Refer to [Vuepress Documentation]*open*https://v1.vuepress.vuejs.org/theme/default-theme-config.html#sidebar*close* for more details)
-[//]: # (Note: Parenthesis break these comments so I replaced them with *open* and *close*)
-[//]: # (This horrible hack is done so I can have my hyperlink in a comment since that didn't work before)
+children: [ 'child0', 'child1', 'child2' ] // Refer to Vuepress Documentation for more details
+```
 
 The other arrays that do not follow this syntax are used for something else. If you plan to add a new array to the file, please make it explicit in what it is for or detail it in a comment. Edit this README if you must.
 
