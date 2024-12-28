@@ -21,3 +21,4 @@ Thumbs.db
 docs/
 
 package-lock.json
+.editorconfig
