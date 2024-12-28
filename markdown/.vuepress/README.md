@@ -39,16 +39,4 @@ https://github.com/alexytomi/PojavlauncherWikiTesting/blob/7fa1deef1ff2623776110
 
 These still follow the rules that Getting_Started and Going_Further have. They're just put as children of FAQ instead of being their own group.
 
-### Markdown Files Summary
-
-#### Getting Started
-- INSTALL - Installing PojavLauncher
-- BUILD-FROM-SOURCE - Building PojavLauncher from source
-- SIGN-IN - Signing in
-- INSTALL-MC - Downloading Minecraft
-- CUSTOM-CONTROLS - Customizing the on-screen controls
-- DISCORD - Official PojavLauncher Discord server
-
-WIP. Documenting this would be documenting stale files. Awaiting PR review.
-
 

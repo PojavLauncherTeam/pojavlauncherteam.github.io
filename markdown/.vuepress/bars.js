@@ -4,15 +4,15 @@ const { GroupOrder } = Arrays;
 
 // Disgusting spam but readable
 const WikiSideBar = (GroupOrder[0]).map(category => generateSideBar(Arrays[category])); // Uses GroupOrder to generate wiki sidebar
-const ContributeSideBar = (require('./arrays.js').contribute); // Just use page headers for sidebar
-const AboutSideBar = (require('./arrays.js').about);
+const AboutSideBar = (require('./arrays.js').about); // Just use page headers for sidebar
+const ContributeSideBar = (require('./arrays.js').contribute); 
 const PatchSideBar = (require('./arrays.js').patchnotes);
 
 // Defines path specified sidebars
 const SideBar = {
 	'/wiki/': WikiSideBar,
+  '/about/': AboutSideBar,
 	'/contribute/': ContributeSideBar,
-	'/about/': AboutSideBar,
 	'/patchnotes/': PatchSideBar,
 }
 
