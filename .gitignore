@@ -23,3 +23,4 @@ docs/
 package-lock.json
 .editorconfig
 .nvmrc
+out
