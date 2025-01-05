@@ -78,7 +78,7 @@ module.exports = {
   globalUIComponents: ["ThemeManager"],
 
   themeConfig: {
-    displayAllHeaders: true,
+    displayAllHeaders: false,
     lastUpdated: true,
     repo: "https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io/",
     docsDir: "",
