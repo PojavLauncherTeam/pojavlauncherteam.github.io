@@ -56,7 +56,6 @@ export const Getting_Started = {
     "INSTALL", // Installing PojavLauncher.
     "BUILD-FROM-SOURCE", // Building PojavLauncher from source.
     "SIGN-IN", // Signing in.
-    "INSTALL-MC", // Downloading Minecraft.
     "CUSTOM-CONTROLS", // Customizing the on-screen controls.
     "SOCIALMEDIA", // Official PojavLauncher social medias.
   ],
