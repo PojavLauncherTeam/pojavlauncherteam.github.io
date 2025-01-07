@@ -66,7 +66,7 @@ Note: **Enable URL Schemes in TrollStore settings.**
     - 14.0 to 16.6.1
     - 17.0
 
-1. Follow these steps to install [TrollStore](https://github.com/opa334/TrollStore).
+1. Follow these steps to install [TrollStore](https://ios.cfw.guide/installing-trollstore/).
  
 2. Download the latest release from [here](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa).
     - For a specific release, you can find its package on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
@@ -87,7 +87,7 @@ PojavLauncher supports being sideloaded with AltStore and SideStore. Instruction
 2. Install the latest release using this [Install with AltStore](altstore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa) button.
     - For a specific release, you can find its button on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
-Installing PojavLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](./JIT.md).
+Installing PojavLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](../faq/ios/JIT.md).
 :::
 
 ::: details Sideloading (Jailbroken)
