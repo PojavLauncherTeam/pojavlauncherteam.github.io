@@ -81,7 +81,7 @@ module.exports = {
     displayAllHeaders: false,
     lastUpdated: true,
     repo: "https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io/",
-    docsDir: "",
+    docsDir: "markdown",
     docsBranch: "main",
     editLinks: true,
     editLinkText: "Help us improve this page!",
