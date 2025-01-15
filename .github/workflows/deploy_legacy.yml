@@ -1,0 +1,17 @@
+name: Build And Deploy (Legacy)
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    name: Build
+    uses: ./.github/workflows/build.yml
+  deploy:
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages (gh-pages branch)
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
+        with:
+          BRANCH: gh-pages
+          FOLDER: docs
+          CLEAN: true
