@@ -47,7 +47,7 @@ Instructions for installing PojavLauncher on Apple devices.
 ::: details Sideloading (TrollStore)
 We recommend TrollStore for all users if possible. This method allows for automatic JIT enabling, more memory allocation, and non-revoking installs.
 
-Note: **Enable URL Schemes in TrollStore settings.**
+Note: **Enable URL Schemes in TrollStore settings: TrollStore -> Settings -> Scroll Down -> Enable URLScheme **
 
 ### TrollStore compatibility depends on whether your iDevice is arm64 (A8-A11) or arm64e (A12+/M1+)
 
@@ -57,7 +57,8 @@ Note: **Enable URL Schemes in TrollStore settings.**
     - 17.0 
 	- 16.7 to 16.7.10 (*)
  	- 17.0.1 to 17.7 (*)
-  	- 18.0 (*)
+  	- 18.0 to 18.1.1 (*)
+    - 18.2 (*)
 
  (*) - requires the palera1n jailbreak
   
@@ -65,6 +66,7 @@ Note: **Enable URL Schemes in TrollStore settings.**
   
     - 14.0 to 16.6.1
     - 17.0
+    - 16.7 RC (20H18)
 
 1. Follow these steps to install [TrollStore](https://ios.cfw.guide/installing-trollstore/).
  
@@ -79,12 +81,12 @@ You can now enjoy Minecraft: Java Edition on your iDevice!
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
-PojavLauncher supports being sideloaded with AltStore and SideStore. Instructions to use AltStore are below--for other options, refer to their documentation.
+PojavLauncher supports being sideloaded with AltStore and SideStore. Instructions to use SideStore are below--for other options, refer to their documentation.
 
 1. Follow the official guide on installing AltStore itself:
-    - Instructions for [Mac](https://faq.altstore.io/getting-started/how-to-install-altstore-macos) and [Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
+    - Instructions for [Mac](https://docs.sidestore.io/docs/getting-started/mac) and [Windows](https://docs.sidestore.io/docs/getting-started/windows)
     
-2. Install the latest release using this [Install with AltStore](altstore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa) button.
+2. Install the latest release using this [Install with SideStore](sidestore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.pojavlauncher.ipa) button.
     - For a specific release, you can find its button on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
 Installing PojavLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](../faq/ios/JIT.md).
