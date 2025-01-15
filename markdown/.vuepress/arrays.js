@@ -56,7 +56,6 @@ export const Getting_Started = {
     "INSTALL", // Installing PojavLauncher.
     "BUILD-FROM-SOURCE", // Building PojavLauncher from source.
     "SIGN-IN", // Signing in.
-    "INSTALL-MC", // Downloading Minecraft.
     "CUSTOM-CONTROLS", // Customizing the on-screen controls.
     "SOCIALMEDIA", // Official PojavLauncher social medias.
   ],
@@ -91,6 +90,8 @@ export const contribute = [
 ];
 
 export const patchnotes = [
+  "changelogs/ANDROID",
+  "changelogs/IOS",
   "UNJAIL", // Bringing PojavLauncher to unjailbroken iOS.
   "IOS-SUPPORT", // System support in future versions of PojavLauncher iOS.
   "LOCAL-MODE", // Offline mode is going places.
