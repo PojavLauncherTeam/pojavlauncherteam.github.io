@@ -1,4 +1,6 @@
-# "Gladiolus" release (latest)
+# PojavLauncher Android
+
+## "Gladiolus" release (latest)
 
 
 - Added new renderer: LTW
@@ -12,7 +14,7 @@
 
 
 
-# "Foxglove" release (20th June 2024)
+## "Foxglove" release (20th June 2024)
 
 
 - Launcher Features:
@@ -38,7 +40,7 @@ Custom profile icons !
 
 
 
-# "Edelweiss" Release (27th September 2023)
+## "Edelweiss" Release (27th September 2023)
 
 
 - New launcher features: 
@@ -67,7 +69,7 @@ Custom profile icons !
 
 
 
-# "Dahlia" GPlay update (28th May 2022)
+## "Dahlia" GPlay update (28th May 2022)
 
 
 - New launcher features:
@@ -96,7 +98,7 @@ Custom profile icons !
 
 
 
-# "Crocus" gplay release (31st August 2021)
+## "Crocus" gplay release (31st August 2021)
 
 
 - Resolver changes
