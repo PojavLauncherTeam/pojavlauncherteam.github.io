@@ -3,14 +3,21 @@
 ## "Gladiolus" release (latest)
 
 
-- Added new renderer: LTW
-- Refactored screen size management
-- Added the new "Quick Settings" menu to the in-game sidebar
-- Improved default settings
-- Improved download progress display
+- Fully fixed a bug when 1.21.1+ did not show anything with GL4ES
+- Other minor launcher crash fixes
+- Technical changes:
+- Refactored screen size management for better screen dimension changing support
 - Improved ReplayMod support (available by installing the FFMpeg plugin)
-- UI changes
-- Other bug fixes
+- Additions:
+- Added new renderer: LTW
+   - Supports incomplete OpenGL 3.2, based on OpenGL ES 3.0 (with optional features from 3.1 and 3.2)
+   - Allows you to run Sodium, Iris (note that shader support is limited), Immersive Portals (GL_EXT_clip_cull_distance required), Create and most other mods for new versions of the game which previously only worked on Zink
+   - Known bugs: colors may not be right in Xaero's map mods.
+- Added the new "Quick Settings" menu to the in-game sidebar
+   - Allows you to adjust resolution, gesture settings and gyroscope settings while the game is running.
+UX changes
+- Improved default settings
+- Improved download progress display for game installation
 
 
 
