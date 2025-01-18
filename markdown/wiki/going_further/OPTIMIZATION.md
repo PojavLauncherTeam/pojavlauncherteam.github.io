@@ -11,6 +11,7 @@ OptiFine, previously known as Optimine and OptiFog; is a Minecraft modification 
 
 - Depending on what Minecraft version you mainly use, get the specific OptiFine for it. Let's say; I play 1.12.2, so I'll get the latest 1.12.2 OptiFine available.
 ![1.12.2OFSc](https://media.discordapp.net/attachments/955349865758601266/1035479282627137576/Screenshot_2022-10-28_17-03-03.png)
-## Sodium
-## "Optimizing" ModPacks
-## JVM Arguments
+
+
+## Get the most of your device
+A github issue has been raised which consists of the ways to get the highest fps possible. [Click Here](https://github.com/PojavLauncherTeam/PojavLauncher/issues/6432)
