@@ -8,6 +8,17 @@
 5. Inside you will find the `mods` folder.
 6. Paste your mods there.
 
+### File Structure:
+
+```
+.minecraft
+│
+└─── mods
+     │ - mod1.jar
+     │ - mod2.jar
+     │   ...
+```
+
  ## Resource packs 
 1. In the PojavLauncher menu, you will see "game directory" button, click it.
 2. You will be automatically redirected to `.minecraft` folder.
@@ -32,6 +43,16 @@ pack (folder) → pack (folder) → pack.mcmeta
 pack.zip → pack.mcmeta
 pack (folder) → pack.mcmeta
 
+```
+.minecraft
+│
+└─── resourcepacks
+     │ ─ pack.zip
+     └─── pack (folder)
+          │ ─ pack.mcmeta
+          │ ─ ...
+```
+
 ## World
 The world cannot be zipped inside the saves folder.
 
@@ -41,3 +62,12 @@ The world cannot be zipped inside the saves folder.
 
 **Correct:**
   world (directory) → level.dat
+
+```
+.minecraft
+│
+└─── saves
+     └─── world (folder)
+          │   level.dat
+          │   ...
+```
