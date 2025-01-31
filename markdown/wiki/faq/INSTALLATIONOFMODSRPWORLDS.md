@@ -8,8 +8,6 @@
 5. Inside you will find the `mods` folder.
 6. Paste your mods there.
 
-### File Structure:
-
 ```
 .minecraft
 │
