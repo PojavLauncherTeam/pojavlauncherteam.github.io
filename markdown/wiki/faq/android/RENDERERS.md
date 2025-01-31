@@ -10,9 +10,9 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 ![holygl4es](https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/2024-09-22_12.32.23.png)
 
 ## LTW (Large Thin Wrapper)
-- Comparatively slower than GL4ES, uses OPENGL ES 3.0+. Only works on 1.17+.
-- Supports OpenGL 3.2 only (With some emulation compatibility with other mods).
-- Has a great mod compatibility, can run some of the most popular mods such as Sodium & its family, Create Mod, etc...
+- Comparatively same in performance as GL4ES. Only works on 1.17+.
+- Supports partial OpenGL 3.2
+- Has decent mod compatibility, can run some of the most popular mods such as Sodium & its family, Create Mod, etc...
 > [!TIP]
 > LTW is also capable of running a few official shaders (Highly depends on the GPU of the system)!
 
@@ -27,7 +27,7 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 > On iOS devices, ANGLE can provide faster performance than Holy GL4ES.
 
 > [!IMPORTANT]
-> As of Galdiolus release, ANGLE renderer has been removed/replaced with LTW, We highly recommend you to use LTW instead.
+> As of Galdiolus release, ANGLE renderer has been removed/replaced with LTW, We highly recommend you to use LTW instead. Side Note: This marks ANGLE as now iOS exclusive.
 
 ### A screenshot of ANGLE running Minecraft 1.21.1
 ![angle](https://raw.githubusercontent.com/whal-whales/random-imgs-repo-for-stuff/refs/heads/main/Screenshot_20240922_124430_PojavLauncher%20(Minecraft%20Java%20Edition%20for%20Android).jpg)
