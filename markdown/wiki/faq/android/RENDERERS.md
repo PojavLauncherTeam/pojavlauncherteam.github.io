@@ -21,7 +21,7 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 **will** face crashes when using Zink.
 - Works on all vanilla versions of Minecraft.
 
-> On the current version of PojavLauncher, Mali with Vulkan 1.1 or some Vulkan 1.3 driver (need more testers with Mali Vulkan 1.3 devices). cannot run Minecraft 1.16.5 with Zink due to Mali driver issue with Mesa 23.2.0-devel (MESA_GL_VERSION_OVERRIDE=<api version> (See https://pojavlauncher.app/wiki/faq/android/ZINKNOTWORKING.html). will not fix this issue)
+> On the current version of PojavLauncher, Mali with Vulkan 1.1 or some Vulkan 1.3 driver (need more testers with Mali Vulkan 1.3 devices). cannot run Minecraft 1.16.5 and below with Zink due to Mali driver issue with Mesa 23.2.0-devel (MESA_GL_VERSION_OVERRIDE=<api version> (See https://pojavlauncher.app/wiki/faq/android/ZINKNOTWORKING.html). will not fix this issue)
 > (*) Most Mali GPUs can only run OpenGL 3.1
 
 ### A screenshot of Zink running Minecraft 1.21.1
