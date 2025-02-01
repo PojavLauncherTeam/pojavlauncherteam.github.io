@@ -11,7 +11,7 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 
 ## LTW (Large Thin Wrapper)
 - Comparatively same in performance as GL4ES. Only works on 1.17+.
-- Supports partial OpenGL 3.2
+- Supports full OpenGL 3.0
 - Has decent mod compatibility, can run some of the most popular mods such as Sodium & its family, Create Mod, etc...
 ::: tip
 LTW is also capable of running a few official shaders (Highly depends on the GPU of the system)!
