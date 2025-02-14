@@ -1,6 +1,6 @@
 # Device requirements
 - **Minimum** means 60 or more average FPS on 1.12.2 with [OptiFine](https://optifine.net/downloads) installed at lowest settings.
-- **Recommended** means 60 or more average FPS on 1.21.1 with [OptiFine](https://optifine.net/downloads) installed with the following settings:
+- **Recommended** means 60 or more average FPS on 1.21.4 with [OptiFine](https://optifine.net/downloads) installed with the following settings:
 - 10 Render Distance
 - Smooth Lighting
 - All animations

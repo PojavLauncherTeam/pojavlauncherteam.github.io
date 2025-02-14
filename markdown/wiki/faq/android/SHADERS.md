@@ -1,7 +1,21 @@
 # Shaders
-The LTW renderer brings up a huge shader compatibility, which means Pojavlauncher now supports shaders made for Iris or Optifine.
+The LTW renderer brings up a decent shader compatibility, which means Pojavlauncher now supports shaders made for Iris or Optifine. Here are a few list of shaders that work on LTW
 
-### Known Issues
+✅ No Bugs
+⚠️ Minor Bugs
+❗ Major Bugs
+## Note
+This list also lists shader that has bugs, but not critical bugs.
+This list will be updated once in a while. Also please raise issues to get us aware about the shaders which are working or not working!
+
+
+## Shader List
+| Status | Shader Name | Link | Bugs | Last Checked | Tested On |
+|--------|-------------|------|------|--------------|-----------|
+|⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
+|✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
+
 
 ### Open4ES
 - Famous shaders (e.g. SEUS), which are converted to work with GL4ES. 

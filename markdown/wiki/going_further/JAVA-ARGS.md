@@ -7,7 +7,8 @@
 3. Fill in with the relevant JVM arguments you like.
 4. Finally Save the Profile by clicking on Save button.
 
-![1737452003507421707442135702385](https://github.com/user-attachments/assets/3acb95bd-7ae2-49e2-a540-00e11fe0ed1b)
+![1000146086](https://github.com/user-attachments/assets/de3c2be9-1fda-4107-ac64-3b3d9f134d32)
+
 
 
 ## Some Common JVM Arguments
