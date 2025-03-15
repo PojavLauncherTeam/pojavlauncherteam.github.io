@@ -7,7 +7,7 @@ Thanks to the hard work from PojavLauncherTeam, both the Android and the iOS por
 ...with some small exceptions that will be listed below.
 
 ## Android
-Current issues, as of the Foxglove update:
+Current issues, as of the Gladiolus update:
 
 - 3d shareware build is broken with gl4es due to shader compilation errors.
 
