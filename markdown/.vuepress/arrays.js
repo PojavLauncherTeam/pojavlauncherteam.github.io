@@ -29,6 +29,7 @@ const ios_FAQ = {
   children: [
     "JIT", // iOS and "JIT".
     "APPSTORE", // Will PojavLauncher ever come to App Store for iOS?
+    "KEYCHAIN-ERR", // "Failed to save account tokens to keychains"
   ],
 };
 

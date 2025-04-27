@@ -1,0 +1,4 @@
+# "Failed to save account tokens to keychain"
+
+Though this warning message may seem concerning, this warning message can  be safely ignored, as of writing (2025/04/19) it pretty much hasn't caused any issues within the launcher; though this page may or may not change depending on the issues that will soon to be discovered.
+(This page only applies to users that use the developer builds from the [actions tab](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions).)
