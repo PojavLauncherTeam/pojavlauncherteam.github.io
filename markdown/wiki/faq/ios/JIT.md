@@ -27,9 +27,9 @@ The only downside to this method is that you are required to be connected to a W
 
 ## What are the methods to enable JIT?
 
-The methods to enable JIT can be found [here](https://github.com/ItAnthon/JIT-on-iOS).
+The methods to enable JIT can be found [here](https://github.com/C4ndyF1sh/iOS-JIT-Enablers).
 
-Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
+Methods not listed here are not confirmed nor recommended by us for use with PojavLauncher.
 
 ## So how do I enable JIT?
 
@@ -45,6 +45,8 @@ Methods not listed here are not confirmed or recommended by us for use with Poja
 
 - [SideJITServer](https://github.com/nythepegasus/SideJITServer) (%)
 
+- [StikJIT/StikDebug](https://github.com/StephenDev0/StikJIT/blob/main/user-manual.md) (%)
+
 (!) - Limited to Jailbroken devices only. (JIT is granted by the Jailbreak itself)
 
 (@) - Limited to devices with the CoreTrust bug. (iOS 14.0 - iOS 16.7 RC & iOS 17.0)
@@ -55,9 +57,7 @@ Methods not listed here are not confirmed or recommended by us for use with Poja
 
 (%) - Does not work for iOS 16.x or below, use the other methods listed above to enable JIT. This method is meant for iOS 17.0.1+
 
-## Methods coming Soon:
-
-- JITStreamer 2.0 (^)
+## Methods coming soon:
 
 - UTM SE (^)
 
