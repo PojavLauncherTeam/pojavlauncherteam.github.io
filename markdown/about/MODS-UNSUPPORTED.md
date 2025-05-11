@@ -3,6 +3,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 
 ## Performance Mods + Shaders
 - [Sodium](https://modrinth.com/mod/sodium)
+        - Any version of Sodium (and forks) X.X.13 onwards (0.5.13 and 0.6.13). Starting from the versions mentioned, Sodium will intentionally cause a Runtime Exception crash about incompatibility.
 	- [GL4ES Patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B)
 	- 0.5.x and later does not work without disabling the terrain optimization mixins. It's not recommended and therefore isn't faster than Vanilla/Optifine
 - [Embeddium](https://modrinth.com/mod/embeddium)
